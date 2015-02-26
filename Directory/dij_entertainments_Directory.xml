@@ -16,32 +16,28 @@
 
 <name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
-<thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
+<thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
 <date>DIJ</date>
 
 <name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
-<thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
+<thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
 <date>DIJ</date>
 
 <name>[COLOR aqua]MOVIES BY GENRE[/COLOR] [COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
-<thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
+<thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]Requests[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
-<thumbnail>http://s22.postimg.org/6f9ue4kg1/requests1.jpg</thumbnail>
-<date>DIJ</date>
 
 <name>[COLOR aqua]TV-SHOWS[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</link>
-<thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
+<thumbnail>http://s10.postimg.org/epko6r8gp/tvsh.png</thumbnail>
 <date>DIJ</date>
 
 <name>[COLOR aqua]WWE[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/WWE.xml</link>
-<thumbnail>http://s17.postimg.org/wznncldbz/wwe.png</thumbnail>
+<thumbnail>http://s22.postimg.org/uzz54f9g1/wwe.png</thumbnail>
 <date>DIJ</date>
 
 

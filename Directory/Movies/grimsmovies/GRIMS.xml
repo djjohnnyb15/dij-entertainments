@@ -5,13 +5,19 @@
 
 
 <dir>
-<name>[COLOR aqua]The Hobbit Trilogy[/COLOR] </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/hobbit.xml</link>
-<thumbnail>http://s1.postimg.org/3xe2s717z/the_hobbit_trilogy_blu_ray_disc_coverart_by_umbr.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR aqua]The Blade Trilogy[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]The Lord of the Ring Trilogy[/COLOR] [COLOR red] comming soon [/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/LotR.xml</link>
+<thumbnail>s15.postimg.org/dhya9kwzb/12237_front.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]The Hobbit Trilogy[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/hobbit.xml</link>
+<thumbnail>http://s1.postimg.org/3xe2s717z/the_hobbit_trilogy_blu_ray_disc_coverart_by_umbr.jpg</thumbnail>
 </dir>

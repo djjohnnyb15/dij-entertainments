@@ -14,8 +14,13 @@
 <thumbnail>http://s22.postimg.org/6f9ue4kg1/requests1.jpg</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]MOVIES[/COLOR]</name>
+<name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</link>
+<thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR aqua]MOVIES BY GENRE[/COLOR] [COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
 <thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
 <date>DIJ</date>
 

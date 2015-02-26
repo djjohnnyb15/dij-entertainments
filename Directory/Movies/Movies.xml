@@ -8,33 +8,10 @@
 
 
 #####################################################################################################################
-<dir>
-<name>[COLOR aqua]Carry On The Ultimate Collection[/COLOR] </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/carryon.xml</link>
-<thumbnail>http://s11.postimg.org/x2fubezyb/carry_on_film_locations_tour_530_1.jpg</thumbnail>
-</dir>
 
 <dir>
-<name>[COLOR aqua]Laurel and Hardy - The Collector's Edition[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/landh.xml</link>
-<thumbnail>http://lookpic.com/O/i2/1818/H57geiaB.jpeg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]DVDSCRS[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/dvdscr.xml</link>
-<thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]WEBRIP[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/webrip.xml</link>
-<thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]HDRIP[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/hdrip.xml</link>
+<name>[COLOR aqua]Movie Collections[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
 <thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
 </dir>
 
@@ -45,14 +22,8 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]KIDS MOVIES 1[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies1.xml</link>
-<thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]KIDS MOVIES 2[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies2.xml</link>
+<name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
 <thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
 </dir>
 

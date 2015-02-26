@@ -9,22 +9,22 @@
 
 #####################################################################################################################
 
-<name>[COLOR pink]Requests[/COLOR]</name>
+<name>[COLOR aqua]Requests[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
 <thumbnail>http://s22.postimg.org/6f9ue4kg1/requests1.jpg</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR blue]MOVIES[/COLOR]</name>
+<name>[COLOR aqua]MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</link>
 <thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR green]TV-SHOWS[/COLOR]</name>
+<name>[COLOR aqua]TV-SHOWS[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</link>
 <thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR green]WWE[/COLOR]</name>
+<name>[COLOR aqua]WWE[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/WWE.xml</link>
 <thumbnail>http://s17.postimg.org/wznncldbz/wwe.png</thumbnail>
 <date>DIJ</date>

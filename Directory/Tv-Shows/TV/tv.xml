@@ -34,6 +34,12 @@
 </dir>
 
 <dir>
+<name>Power</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/power/powerDirectory.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/276562-1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Flash 2014</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/theflash/theflashDirectory.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/279121-4.jpg</thumbnail>

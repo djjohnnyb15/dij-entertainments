@@ -10,131 +10,131 @@
 #####################################################################################################################
 
 <dir>
-<name>[COLOR aqua]Action[/COLOR]</name>
+<name>[COLOR aqua]Action[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Adventure[/COLOR]</name>
+<name>[COLOR aqua]Adventure[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s7.postimg.org/vcwz6563f/singingkettle_jpg4.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Animation[/COLOR]</name>
+<name>[COLOR aqua]Animation[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Biography[/COLOR]</name>
+<name>[COLOR aqua]Biography[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Comedy[/COLOR]</name>
+<name>[COLOR aqua]Comedy[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Crime[/COLOR]</name>
+<name>[COLOR aqua]Crime[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Documentary[/COLOR]</name>
+<name>[COLOR aqua]Documentary[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Drama[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<name>[COLOR aqua]Drama[/COLOR][COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/drama.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Family[/COLOR]</name>
+<name>[COLOR aqua]Family[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Fantasy[/COLOR]</name>
+<name>[COLOR aqua]Fantasy[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]History[/COLOR]</name>
+<name>[COLOR aqua]History[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]Horror[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/horror.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Music[/COLOR]</name>
+<name>[COLOR aqua]Music[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR aqua]Musical[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]Mystery[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]Romance[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 
 <dir>
-<name>[COLOR aqua]Sci-Fi[/COLOR]</name>
+<name>[COLOR aqua]Musical[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Sport[/COLOR]</name>
+<name>[COLOR aqua]Mystery[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Thriller[/COLOR]</name>
+<name>[COLOR aqua]Romance[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR aqua]Sci-Fi[/COLOR][COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]War[/COLOR]</name>
+<name>[COLOR aqua]Sport[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Western[/COLOR]</name>
+<name>[COLOR aqua]Thriller[/COLOR][COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
-<thumbnail>http://s15.postimg.org/uro2y25kb/reaperwolftiger1.png</thumbnail>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]War[/COLOR][COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Western[/COLOR][COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 

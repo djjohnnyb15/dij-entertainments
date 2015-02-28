@@ -6,8 +6,20 @@
 
 
 <dir>
+<name>[COLOR aqua]Adaptations[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/filmlist.xml</link>
+<thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Carrie Trilogy[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/cartril.xml</link>
+<thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Children Of The Corn (all 7 movies)[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/child.xml</link>
 <thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
 </dir>
 
@@ -24,20 +36,9 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Children Of The Corn (all 7 movies)[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/child.xml</link>
-<thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR aqua]The Stand[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/stand.xml</link>
 <thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR aqua]Adaptations[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/filmlist.xml</link>
-<thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
-</dir>
 

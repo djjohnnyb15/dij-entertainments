@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-name =  dmode
- dir = ndmode
+﻿
 
 
 #######################################################################################################################################
@@ -18,10 +15,10 @@ name =  dmode
 
 hi all and welcome to our plugin hope you like it
 
-<#name>[COLOR red]NEW STUFF[/COLOR]</name>
-<#link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/new.xml</link>
-<#thumbnail>http://s18.postimg.org/s2o8anea1/button_lavender_round_3d_website_free_steel_ring.png</thumbnail>
-<#mode>dmode</mode>
+<name>[COLOR red]NEW STUFF[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/new.xml</link>
+<thumbnail>http://s18.postimg.org/s2o8anea1/button_lavender_round_3d_website_free_steel_ring.png</thumbnail>
+
 
 <name>[COLOR aqua]GRIMS MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/GRIMS.xml</link>

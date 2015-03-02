@@ -15,7 +15,7 @@ def GetList():
             if '@' not in name:
                     addDir(name,url,1,thumb,fanart)
         addLink('','url','mode',icon,fanart)
-        addLink('Twitter Feed','url',2,icon,fanart)
+     
 
 def GetContent(url,iconimage):
         link=open_url(url)
@@ -44,19 +44,7 @@ def PLAYLINK(url,iconimage):
             xbmcPlayer.play(playlist)
             quit()
             
-def TWITTER():
-        text=''
-        twit = 'http://twitrss.me/twitter_user_to_rss/?user=dijentertainmen'
-        twit += '?%d' % (random.randint(1, 999999999999))
-        link = open_url(twit)
-        match=re.compile("<description><!\[CDATA\[(.+?)\]\]></description>.+?<pubDate>(.+?)</pubDate>",re.DOTALL).findall(link)
-        for status, dte in match:
-            status = status.replace('\n',' ')
-            status = status.encode('ascii', 'ignore').decode('ascii').replace('&#x27;','\'').replace('&#xA0;','').replace('&#x2026;','')
-            dte = '[COLOR red][B]'+dte+'[/B][/COLOR]'
-            dte = dte.replace('+0000','').replace('2014','').replace('2015','')
-            text = text+dte+'\n'+status+'\n'+'\n'
-        showText('@dijentertainmen', text)
+
 
 def showText(heading, text):
     id = 10147
@@ -134,7 +122,7 @@ print "Site: "+str(site); print "Mode: "+str(mode); print "URL: "+str(url); prin
  
 if mode==None or url==None or len(url)<1: GetList()
 elif mode==1:GetContent(url,iconimage)
-elif mode==2:TWITTER()
+
 
 
 

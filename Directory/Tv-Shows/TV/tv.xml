@@ -10,56 +10,56 @@
 #####################################################################################################################
 
 <dir>
-<name>[COLOR green]Arrow[/COLOR]</name>
+<name>[COLOR aqua]Arrow[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/arrow/ArrowDirectory.xml</link>
 <thumbnail>http://s8.postimg.org/cvizkeut1/MV5_BMTg3_OTc0_Nzky_OV5_BMl5_Ban_Bn_Xk_Ft_ZTgw_MDMw_MTM3_Mj_E.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR gold]Gold Rush[/COLOR]</name>
+<name>[COLOR aqua]Auf Wiedersehen Pet[/COLOR] [COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/auf/aufDirectory.xml</link>
+<thumbnail>http://s8.postimg.org/cvizkeut1/MV5_BMTg3_OTc0_Nzky_OV5_BMl5_Ban_Bn_Xk_Ft_ZTgw_MDMw_MTM3_Mj_E.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Gold Rush[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/goldrush/goldrushDirectory.xml</link>
 <thumbnail>http://s27.postimg.org/vbg4y3ysj/gold_rush.png</thumbnail>
 </dir>
 
 <dir>
-<name>Ice Road Truckers</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/iceroad/iceroad.xml</link>
-<thumbnail>http://s16.postimg.org/w7aqkjnad/Iceroadtruckerslogo.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>NCIS: Los Angeles</name>
+<name>[COLOR aqua]NCIS: Los Angeles[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ncisla/ncislaDirectory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/95441-2.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Power</name>
+<name>[COLOR aqua]Power[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/power/powerDirectory.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/276562-1.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Flash 2014</name>
+<name>[COLOR aqua]The Flash 2014[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/theflash/theflashDirectory.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/279121-4.jpg</thumbnail>
 </dir>
 
 
 <dir>
-<name>The Walking Dead </name>
+<name>[COLOR aqua]The Walking Dead[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/thewalkingdead/TheWalkingDeadDirectory.xml</link>
 <thumbnail>http://s7.postimg.org/x3v7gcwor/The_Walking_Dead_title_card.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The 100</name>
+<name>[COLOR aqua]The 100[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/the100/The100Directory.xml</link>
 <thumbnail>http://s29.postimg.org/quwi7onlj/MV5_BMTU5_MTcz_NTkx_Nl5_BMl5_Ban_Bn_Xk_Ft_ZTgw_NTM5_NDc1_MTE.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Twilight Zone original TV series </name>
+<name>[COLOR aqua]The Twilight Zone original TV series[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/thetwilightzone/twilightzoneDirectory.xml</link>
 <thumbnail>http://s15.postimg.org/mcrye54mz/download.jpg</thumbnail>
 </dir>

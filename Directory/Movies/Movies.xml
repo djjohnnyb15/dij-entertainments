@@ -9,6 +9,13 @@
 
 #####################################################################################################################
 
+
+<dir>
+<name>[COLOR aqua]Fitnes Dvds[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/fitness/fitnessdir.xml</link>
+<thumbnail>http://s23.postimg.org/u2macaxdn/fitness_word_motivation.jpg</thumbnail>
+</dir>
+
 <dir>
 <name>[COLOR aqua]Movie Collections[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>

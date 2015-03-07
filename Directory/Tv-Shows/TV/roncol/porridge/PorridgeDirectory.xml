@@ -1,13 +1,13 @@
 #######################################################################################################################################
 <poster>Dijentertainments</poster>
-<fanart>http://thetvdb.com</fanart>
+<fanart>http://thetvdb.com/</fanart>
 #######################################################################################################################################
 
 
 <dir>
 <name>Season 1</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/roncol/porridge/Season1.xml</link>
-<thumbnail>http://thetvdb.com</thumbnail>
+<thumbnail>http://thetvdb.com/</thumbnail>
 </dir>
 
 
@@ -21,24 +21,6 @@
 <dir>
 <name>Season 3 </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/roncol/porridge/Season3.xml</link>
-<thumbnail>http://thetvdb.com/</thumbnail>
-</dir>
-
-<dir>
-<name>Going Straight </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/roncol/porridge/going.xml</link>
-<thumbnail>http://thetvdb.com/</thumbnail>
-</dir>
-
-<dir>
-<name>Porridge The Movie </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/roncol/porridge/movie.xml</link>
-<thumbnail>http://thetvdb.com/</thumbnail>
-</dir>
-
-<dir>
-<name>Porridge Extra's </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/roncol/porridge/extras.xml</link>
 <thumbnail>http://thetvdb.com/</thumbnail>
 </dir>
 

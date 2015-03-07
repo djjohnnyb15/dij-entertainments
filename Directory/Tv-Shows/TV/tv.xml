@@ -40,12 +40,6 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]All Things Porridge[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/porridge/porridgeDirectory.xml</link>
-<thumbnail>http://thetvdb.com/</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR aqua]Sons of Anarchy[/COLOR][COLOR red] Coming Soon [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/SoA/SoADirectory.xml</link>
 <thumbnail>http://s15.postimg.org/uzxjev5yj/So_ADv_DTN.jpg</thumbnail>
@@ -55,6 +49,12 @@
 <name>[COLOR aqua]The Flash 2014[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/theflash/theflashDirectory.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/279121-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]The Ronnie Barker Classic TV Collection[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ronnie/ronniebDirectory.xml</link>
+<thumbnail>http://thetvdb.com/</thumbnail>
 </dir>
 
 <dir>

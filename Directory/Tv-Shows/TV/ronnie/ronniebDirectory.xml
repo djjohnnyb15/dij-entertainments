@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>Dijentertainments</poster>
-<fanart>http://s28.postimg.org/miwvrid0t/So_ABG2.jpg</fanart>
+<fanart>http://s8.postimg.org/y1o3etfmd/ron_bg.jpg</fanart>
 #######################################################################################################################################
 
 
@@ -9,17 +9,23 @@
 <dir>
 <name>[COLOR aqua] 1978. Going Straight [/COLOR](porridge spin off) [COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ronnie/going/goDirectory.xml</link>
-<thumbnail>http://s15.postimg.org/uzxjev5yj/So_ADv_DTN.jpg</thumbnail>
+<thumbnail>http://s4.postimg.org/zd2y0l8st/Going_Straight_Complete_Series_DVD_Cover_2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] 1976-1985. Open All Hours [/COLOR] [COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ronnie/open/openDirectory.xml</link>
-<thumbnail>http://s15.postimg.org/uzxjev5yj/So_ADv_DTN.jpg</thumbnail>
+<thumbnail>http://s28.postimg.org/6vprzcd3x/Open_All_Hours_Complete_zps627f7e9a_2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] 1974-1977. Porridge [/COLOR] [COLOR red]coming soon[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ronnie/Porr/porrDirectory.xml</link>
 <thumbnail>http://s15.postimg.org/uzxjev5yj/So_ADv_DTN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua] 1975-1976. Porridge Christmas Specials [/COLOR] [COLOR red]coming soon[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ronnie/xmass/xmassDirectory.xml</link>
+<thumbnail>http://s10.postimg.org/hbx3unvq1/Porridge_The_Christmas_Specials_DVD_Cover.jpg</thumbnail>
 </dir>

@@ -5,19 +5,25 @@
 
 
 <dir>
-<name>[COLOR aqua]The Blade Trilogy[/COLOR] </name>
+<name>[COLOR aqua]1998-2004. The Blade Trilogy[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]The Lord of the Ring Trilogy[/COLOR] [COLOR red] coming soon [/COLOR] </name>
+<name>[COLOR aqua]2001-2003. The Lord of the Ring Trilogy[/COLOR] [COLOR red] coming soon [/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/LotR.xml</link>
 <thumbnail>http://s8.postimg.org/m8edyq7xx/50_LOTR_Trilogy_6_disk_staggered.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]The Hobbit Trilogy[/COLOR] </name>
+<name>[COLOR aqua]2012-2014. The Hobbit Trilogy[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/hobbit.xml</link>
 <thumbnail>http://s1.postimg.org/3xe2s717z/the_hobbit_trilogy_blu_ray_disc_coverart_by_umbr.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]2003-2012. Underworld Quadrilogy[/COLOR] [COLOR red] coming soon [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/under.xml</link>
+<thumbnail>http://s10.postimg.org/3wqb3nrtl/91g_D2_R_Z0_L_SL1500.jpg</thumbnail>
 </dir>

@@ -1,0 +1,14 @@
+
+name="APPLE TV"
+url="https://raw.githubusercontent.com/djjohnnyb15/dij-entertainments/master/Directory/1.txt"
+img="http://fdhc.co.uk/downloads/xbmc/images/APPLE.png"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="APPLE TV PACK"
+
+
+name="Core Addons pack"
+url="https://raw.githubusercontent.com/djjohnnyb15/dij-entertainments/master/Directory/1.txt"
+img="http://fdhc.co.uk/downloads/xbmc/images/main.png"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="Core addons pack"
+

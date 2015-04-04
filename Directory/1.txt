@@ -1,46 +1,4 @@
-name="APPLE TV"
-url="http://fdhc.co.uk/downloads/xbmc/zips/Apple TV Addons Pack.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/APPLE.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="APPLE TV PACK"
 
-
-name="Core Addons pack"
-url="http://fdhc.co.uk/downloads/xbmc/zips/all other units.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/main.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="Core addons pack"
-
-name="DIJ BUILD"
-url="http://fdhc.co.uk/downloads/xbmc/zips/DIJ.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/dijbuild.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="DIJ BUILD"
-
-name="DIJ BUILD 2"
-url="http://fdhc.co.uk/downloads/xbmc/zips/dij.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/DIJ.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="DIJ BUILD 2"
-
-name="Jaybox Build Gotham"
-url="http://fdhc.co.uk/downloads/xbmc/zips/JayBox.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/test.jpeg"
-fanart="http://fdhc.co.uk/downloads/xbmc/images/test.jpeg"
-description="Jaybox Build Gotham"
-
-name="M8 Addons pack"
-url="http://fdhc.co.uk/downloads/xbmc/zips/M8 addons.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/m8_t8_image.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="M8 Addons pack"
-
-
-name="X-Rated addons pack"
-url="http://fdhc.co.uk/downloads/xbmc/zips/XXX.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/x-rated.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="XXX addons pack"
 
 
 name="Keyboard FIX"

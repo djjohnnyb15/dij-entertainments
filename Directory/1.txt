@@ -1,8 +1,0 @@
-
-
-
-name="Keyboard FIX"
-url="http://fdhc.co.uk/downloads/xbmc/zips/Kodi Keyboard FIX.zip"
-img="http://fdhc.co.uk/downloads/xbmc/images/KEYBOARD.png"
-fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
-description="Keyboard FIX"

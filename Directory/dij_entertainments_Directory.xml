@@ -12,29 +12,55 @@
 
 #####################################################################################################################
 
-<name>[COLOR aqua]sorry folks all lists will be gone[/COLOR]</name>
-<link>https://raw.github.com/</link>
+<name>[COLOR aqua]Cinema[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/cinema/cinema.xml</link>
 <thumbnail>http://s27.postimg.org/vtl2t72oz/cin.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]till aaa get it off there repo[/COLOR]</name>
-<link>https://raw.github.com</link>
+<name>[COLOR aqua]Fitness Dvds[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/fitness/fitnessdir.xml</link>
 <thumbnail>http://s24.postimg.org/94zdcj9x1/fit.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]aaa yous are twats get my plugin off yer repo[/COLOR]</name>
-<link>https://raw.github.com/</link>
+<name>[COLOR aqua]GRIMS MOVIES[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/GRIMS.xml</link>
 <thumbnail>http://s18.postimg.org/4ztfii2vd/grim.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]get a grip of yer selfs [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/</link>
+<name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
 <thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]no 1 wants to be on yer shitty repo[/COLOR]</name>
-<link>https://raw.github.com/</link>
+<name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
 <thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR aqua]MOVIES BY GENRE[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
+<thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR aqua]MMA[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/mma/mma.xml</link>
+<thumbnail>http://s27.postimg.org/jev1e2yir/mma_button.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR aqua]Requests[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
+<thumbnail>http://s30.postimg.org/5opug7869/Requests.png</thumbnail>
+<date>DIJ</date>
+
+
+<name>[COLOR aqua]TV-SHOWS[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</link>
+<thumbnail>http://s10.postimg.org/epko6r8gp/tvsh.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR aqua]WWE[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/WWE.xml</link>
+<thumbnail>http://s22.postimg.org/uzz54f9g1/wwe.png</thumbnail>
 <date>DIJ</date>
 
 

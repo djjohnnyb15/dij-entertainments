@@ -15,6 +15,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/blade.xml</link>
+<thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Carry On The Ultimate Collection[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/carryon.xml</link>
 <thumbnail>http://s11.postimg.org/x2fubezyb/carry_on_film_locations_tour_530_1.jpg</thumbnail>
@@ -39,6 +45,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]The Hobbit Trilogy 2012 - 2014 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hobbit.xml</link>
+<thumbnail>http://s1.postimg.org/3xe2s717z/the_hobbit_trilogy_blu_ray_disc_coverart_by_umbr.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]The Ultimate Steven King Collection[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/stevenking/skc.xml</link>
 <thumbnail>http://s8.postimg.org/oi968d4j9/images_1.jpg</thumbnail>
@@ -51,10 +63,13 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Blade Trilogy [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/blade.xml</link>
-<thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg<</thumbnail>
+<name>[COLOR aqua] Underworld Quadrilogy 2003 - 2012 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/under.xml</link>
+<thumbnail>http://s10.postimg.org/3wqb3nrtl/91g_D2_R_Z0_L_SL1500.jpg</thumbnail>
 </dir>
+
+
+
 
 
 

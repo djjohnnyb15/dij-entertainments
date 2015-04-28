@@ -6,19 +6,19 @@
 
 <dir>
 <name>[COLOR red]WWE RAW[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/raw.xml</link>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/raw.xml</link>
 <thumbnail>http://s15.postimg.org/dut4arwff/raw.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR blue]WWE SMACKDOWN[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/smackdown.xml</link>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/smackdown.xml</link>
 <thumbnail>http://s10.postimg.org/8xhns6is9/smackdown.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]WWE PPV[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/ppv.xml</link>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/ppv.xml</link>
 <thumbnail>http://s17.postimg.org/8qp17srlr/ppv.png</thumbnail>
 </dir>
 

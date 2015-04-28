@@ -22,11 +22,6 @@
 <thumbnail>http://s24.postimg.org/94zdcj9x1/fit.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]GRIMS MOVIES[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/grimsmovies/GRIMS.xml</link>
-<thumbnail>http://s18.postimg.org/4ztfii2vd/grim.png</thumbnail>
-<date>DIJ</date>
-
 <name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
 <thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
@@ -51,7 +46,6 @@
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
 <thumbnail>http://s30.postimg.org/5opug7869/Requests.png</thumbnail>
 <date>DIJ</date>
-
 
 <name>[COLOR aqua]TV-SHOWS[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</link>

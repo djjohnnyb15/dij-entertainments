@@ -5,28 +5,108 @@
 
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]Batman ~ The Motion Picture Anthology 1989 - 1997[/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
 <thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]Batman ~ The Dark Knight Trilogy 2005 - 2012[/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Dark Knight Trilogy 2005 - 2012 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dknight.xml</link>
 <thumbnail>http://s21.postimg.org/q667e5zzb/dark_knight_trilogy_TN.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Blade Trilogy 1998 - 2004 [/COLOR]</name>
+<name>[COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]The X-Men Collection 2000 - 2014 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/capt.xml</link>
+<thumbnail>http://s27.postimg.org/ydkhlo7tf/captain_america_collection_53dc09c5c1fe2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Daredevil 2002 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dare.xml</link>
+<thumbnail>http://s18.postimg.org/8poqv3xih/daredevil_522cc4d315fb6.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Elektra 2005 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dare.xml</link>
+<thumbnail>http://s30.postimg.org/u439ddrv5/elektra_54c44bd5b0242.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Fantastic Four Trilogy 1994 - 2007 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/fant.xml</link>
+<thumbnail>http://s17.postimg.org/mjr7gbqyn/fantastic_four_collection_52317fa607319.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Ghost Rider Duology 2007 - 2011 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/ghos.xml</link>
+<thumbnail>http://s18.postimg.org/52e1m5vmx/ghost_rider_collection_53048d587950a.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/howa.xml</link>
+<thumbnail>http://s3.postimg.org/55jpui40j/howard_the_duck_52240d747943f.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Avengers 2012 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/aven.xml</link>
+<thumbnail>http://s2.postimg.org/911iunq1l/Avengers_TN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Hulk Collection 2003 - 2008 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/hulk.xml</link>
+<thumbnail>http://s18.postimg.org/b8t9y4tpl/Hulk_the_incredible_hulk_35454576_800_600.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Iron Man Trilogy 2008 - 2013 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/iron.xml</link>
+<thumbnail>http://s22.postimg.org/xi47msn41/0483f11d3e57_original.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Man-Thing 2005 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/mant.xml</link>
+<thumbnail>http://s18.postimg.org</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Punisher Trilogy 2000 - 2014 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/puni.xml</link>
+<thumbnail>http://s28.postimg.org/qiz45eyp9/the_punisher_collection_54c4a85110c80.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Spiderman Collection 2001 - 2012 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/spid.xml</link>
+<thumbnail>http://s17.postimg.org/yt11fhwe7/Spider_Man.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Thor Duology 2011 - 2013 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/thor.xml</link>
+<thumbnail>http://s29.postimg.org/aeax07qpz/Thor_TN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] X-Men and the Wolverine Collection 2000 - 2014 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
 <thumbnail>http://s14.postimg.org/4llkuw075/x_men_collection_5431e83902cae.jpg</thumbnail>
 </dir>
+
+
 
 
 

@@ -5,16 +5,31 @@
 
 
 <dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]Batman ~ The Motion Picture Anthology 1989 - 1997[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
+<thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]Batman ~ The Dark Knight Trilogy 2005 - 2012[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dknight.xml</link>
+<thumbnail>http://s21.postimg.org/q667e5zzb/dark_knight_trilogy_TN.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]The X-Men Collection 2000 - 2014 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua]The X-Men Collection 2000 - 2014 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
-<thumbnail>http://s23.postimg.org</thumbnail>
+<thumbnail>http://s14.postimg.org/4llkuw075/x_men_collection_5431e83902cae.jpg</thumbnail>
 </dir>
+
+
+
 
 
 

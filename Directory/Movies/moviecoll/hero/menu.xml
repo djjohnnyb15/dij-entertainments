@@ -5,9 +5,15 @@
 
 
 <dir>
-<name>[COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
+<name>[COLOR aqua]Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]The X-Men Collection 2000 - 2014 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
+<thumbnail>http://s23.postimg.org</thumbnail>
 </dir>
 
 

@@ -9,7 +9,7 @@
 
 #####################################################################################################################
 <dir>
-<name>[COLOR aqua] Abbott and Costello Collection[/COLOR] </name>
+<name>[COLOR aqua]Abbott and Costello Collection[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/abbott.xml</link>
 <thumbnail>http://s12.postimg.org/9pn7yexl9/b84817537030abb890e9cd0106a65ed0.jpg</thumbnail>
 </dir>
@@ -62,13 +62,13 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] Underworld Quadrilogy 2003 - 2012 [/COLOR]</name>
+<name>[COLOR aqua]Underworld Quadrilogy 2003 - 2012 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/under.xml</link>
 <thumbnail>http://s10.postimg.org/3wqb3nrtl/91g_D2_R_Z0_L_SL1500.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua] The Ultimate Superhero Collection 1966 - 2014 [/COLOR]</name>
+<name>[COLOR aqua]The Ultimate Superhero Collection 1966 - 2014 [/COLOR] [COLOR red] Coming Soon [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/menu.xml</link>
 <thumbnail>http://s28.postimg.org/82c0d1p9p/Marvel_DC.jpg</thumbnail>
 </dir>

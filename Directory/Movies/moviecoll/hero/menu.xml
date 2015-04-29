@@ -5,10 +5,17 @@
 
 
 <dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Movie 1966 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/bat6.xml</link>
+<thumbnail>http://s27.postimg.org/7z82cb3wz/batman_the_movie_52e4590896094.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
 <thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
 </dir>
+
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Dark Knight Trilogy 2005 - 2012 [/COLOR]</name>

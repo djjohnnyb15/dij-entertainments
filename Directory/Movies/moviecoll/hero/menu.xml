@@ -84,7 +84,7 @@
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Jonah Hex 2010 [/COLOR]</name>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR red]*[/COLOR][COLOR aqua] Jonah Hex 2010 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/jona.xml</link>
 <thumbnail>http://s21.postimg.org/6j0l11gqf/jonah_hex_521861c778a53.jpg</thumbnail>
 </dir>
@@ -105,6 +105,18 @@
 <name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Spiderman Collection 2001 - 2012 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/spid.xml</link>
 <thumbnail>http://s17.postimg.org/yt11fhwe7/Spider_Man.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Superman ans the Mole-Men 1951 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supe.xml</link>
+<thumbnail>http://s12.postimg.org/42ju5mdu5/molemenposter_BG.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Swamp Thing 1982 - 1989 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/swam.xml</link>
+<thumbnail>http://s11.postimg.org/8fsktl14j/Swamp_Thing_1982_720p_Brlu_Ray_x264_x0r_fanart.jpg</thumbnail>
 </dir>
 
 <dir>

@@ -5,13 +5,13 @@
 
 
 <dir>
-<name>[COLOR aqua] Batman ~ The Movie 1966 [/COLOR]</name>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Batman ~ The Movie 1966 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/bat6.xml</link>
 <thumbnail>http://s27.postimg.org/7z82cb3wz/batman_the_movie_52e4590896094.jpg</thumbnail>
 </dir>
 
 <dir>
-<name> Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
 <thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
 </dir>
@@ -24,7 +24,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
+<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
 </dir>
@@ -48,7 +48,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] Fantastic Four Trilogy 1994 - 2007 [/COLOR]</name>
+<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Fantastic Four Trilogy 1994 - 2007 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/fant.xml</link>
 <thumbnail>http://s17.postimg.org/mjr7gbqyn/fantastic_four_collection_52317fa607319.jpg</thumbnail>
 </dir>
@@ -90,7 +90,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] Man-Thing 2005 [/COLOR]</name>
+<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Man-Thing 2005 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/mant.xml</link>
 <thumbnail>http://s24.postimg.org/whupgi2zp/Man_Thing_TN.jpg</thumbnail>
 </dir>
@@ -114,7 +114,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] X-Men and the Wolverine Collection 2000 - 2014 [/COLOR]</name>
+<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] X-Men and the Wolverine Collection 2000 - 2014 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
 <thumbnail>http://s14.postimg.org/4llkuw075/x_men_collection_5431e83902cae.jpg</thumbnail>
 </dir>

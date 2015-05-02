@@ -30,20 +30,26 @@
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR] [COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/capt.xml</link>
 <thumbnail>http://s27.postimg.org/ydkhlo7tf/captain_america_collection_53dc09c5c1fe2.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Daredevil 2002 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comics [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Catwoman 2004 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/catw.xml</link>
+<thumbnail>http://s12.postimg.org/5jnp8axhp/catwoman_5214f2bd9c759.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Daredevil 2002 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dare.xml</link>
 <thumbnail>http://s18.postimg.org/8poqv3xih/daredevil_522cc4d315fb6.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Elektra 2005 [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dare.xml</link>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Elektra 2005 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/elec.xml</link>
 <thumbnail>http://s30.postimg.org/u439ddrv5/elektra_54c44bd5b0242.jpg</thumbnail>
 </dir>
 

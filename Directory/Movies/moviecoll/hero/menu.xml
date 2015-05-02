@@ -24,13 +24,13 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
+<name>[COLOR yellow] Marvel [/COLOR][COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
 <thumbnail>http://s23.postimg.org/xs1hdb31n/Blade_Trilogy_DVD_Cover_by_Adam0000.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR] [COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/capt.xml</link>
 <thumbnail>http://s27.postimg.org/ydkhlo7tf/captain_america_collection_53dc09c5c1fe2.jpg</thumbnail>
 </dir>
@@ -57,6 +57,12 @@
 <name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Fantastic Four Trilogy 1994 - 2007 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/fant.xml</link>
 <thumbnail>http://s17.postimg.org/mjr7gbqyn/fantastic_four_collection_52317fa607319.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comics [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Green Lantern 2011 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/gree.xml</link>
+<thumbnail>http://s8.postimg.org/5h74u7kv9/green_lantern_522bb05744891.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -132,7 +138,7 @@
 </dir>
 
 <dir>
-<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Swamp Thing 1982 - 1989 [/COLOR]</name>
+<name>[COLOR orange] DC-Comics [/COLOR][COLOR aqua] Swamp Thing 1982 - 1989 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/swam.xml</link>
 <thumbnail>http://s11.postimg.org/8fsktl14j/Swamp_Thing_1982_720p_Brlu_Ray_x264_x0r_fanart.jpg</thumbnail>
 </dir>
@@ -141,6 +147,12 @@
 <name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Thor Duology 2011 - 2013 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/thor.xml</link>
 <thumbnail>http://s29.postimg.org/aeax07qpz/Thor_TN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comics [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Watchmen ~ The Ultimate Cut 2009  [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/watc.xml</link>
+<thumbnail>http://s2.postimg.org/ae3ke2ull/watchmen_5212fc672d7bb.jpg</thumbnail>
 </dir>
 
 <dir>

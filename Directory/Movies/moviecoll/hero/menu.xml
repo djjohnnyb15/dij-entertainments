@@ -108,9 +108,21 @@
 </dir>
 
 <dir>
-<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Superman ans the Mole-Men 1951 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Supergirl 1984 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supg.xml</link>
+<thumbnail>http://s9.postimg.org/3wfgz0cj3/supergirl_540bc847ce0a5.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Superman and the Mole-Men 1951 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supe.xml</link>
 <thumbnail>http://s12.postimg.org/42ju5mdu5/molemenposter_BG.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange] DC-Comics [/COLOR] [COLOR aqua] Superman ~ The Motion Picture Anthology 1978 - 2013 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supm.xml</link>
+<thumbnail>http://s15.postimg.org/iy06gn9sb/superman_collection_5213ce9dea472.png</thumbnail>
 </dir>
 
 <dir>

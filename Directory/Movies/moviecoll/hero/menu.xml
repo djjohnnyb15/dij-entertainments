@@ -11,14 +11,14 @@
 </dir>
 
 <dir>
-<name>[COLOR orange] DC-Comic's [/COLOR] [COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
 <thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
 </dir>
 
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Dark Knight Trilogy 2005 - 2012 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Dark Knight Trilogy 2005 - 2012 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dknight.xml</link>
 <thumbnail>http://s21.postimg.org/q667e5zzb/dark_knight_trilogy_TN.jpg</thumbnail>
 </dir>
@@ -72,7 +72,7 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/howa.xml</link>
 <thumbnail>http://s1.postimg.org/41t7a6me7/howard_the_duck_52240d747943f.jpg</thumbnail>
 </dir>
@@ -84,7 +84,7 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow] Marvel [/COLOR] [COLOR aqua] The Hulk Douology 2003 - 2008 [/COLOR]</name>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Hulk Duology 2003 - 2008 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/hulk.xml</link>
 <thumbnail>http://s18.postimg.org/b8t9y4tpl/Hulk_the_incredible_hulk_35454576_800_600.jpg</thumbnail>
 </dir>
@@ -143,7 +143,7 @@
 </dir>
 
 <dir>
-<name>[COLOR orange] DC-Comic's [/COLOR][COLOR aqua] Swamp Thing Douology 1982 - 1989 [/COLOR]</name>
+<name>[COLOR orange] DC-Comic's [/COLOR][COLOR aqua] Swamp Thing Duology 1982 - 1989 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/swam.xml</link>
 <thumbnail>http://s11.postimg.org/8fsktl14j/Swamp_Thing_1982_720p_Brlu_Ray_x264_x0r_fanart.jpg</thumbnail>
 </dir>

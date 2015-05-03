@@ -3,6 +3,11 @@
 <fanart>http://s17.postimg.org/ng9bnjzxb/artidv000030000077.jpg</fanart>
 #######################################################################################################################################
 
+<dir>
+<name>[COLOR red]Boxing[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/boxing.xml</link>
+<thumbnail>http://s15.postimg.org/dut4arwff/</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR red]ufc[/COLOR] </name>
@@ -22,9 +27,5 @@
 <thumbnail>http://s15.postimg.org/dut4arwff/raw.png</thumbnail>
 </dir>
 
-<item>
-<title>Floyd Mayweather Jr vs Manny Pacquiao</title>
-<link>https://www.youtube.com/watch?v=nj4eotkbLiA</link>
-<thumbnail>http://s12.postimg.org/fsfpp1kwt/Mayweather_Promo_2015_Feb_20_0.jpg</thumbnail>
-</item>
+
 

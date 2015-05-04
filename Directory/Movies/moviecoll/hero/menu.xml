@@ -1,50 +1,50 @@
 #######################################################################################################################################
 <poster>Dij-Entertainments</poster>
-<fanart>http://s24.postimg.org/n8l39bm3p/ultimate_marvel_avengers_comic_233102344.jpg</fanart>
+<fanart>http://s13.postimg.org/ncelamyc7/The_Avengers_2012.jpg</fanart>
 #######################################################################################################################################
 
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Movie 1966 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/bat6.xml</link>
-<thumbnail>http://s9.postimg.org/ccd66ka7j/batman_the_movie_520b8fd5d8ad0.png</thumbnail>
+<thumbnail>http://s12.postimg.org/fq7lfsbod/batman_the_movie_54025605911f2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Motion Picture Anthology 1989 - 1997 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/batman.xml</link>
-<thumbnail>http://s14.postimg.org/nr3jcmgw1/batman_ed8a23c7f.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/bjmr0gc2l/batman_collection_original_series_520b7a8545f8f.png</thumbnail>
 </dir>
 
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Batman ~ The Dark Knight Trilogy 2005 - 2012 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dknight.xml</link>
-<thumbnail>http://s21.postimg.org/q667e5zzb/dark_knight_trilogy_TN.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/gsmdc2jvh/the_dark_knight_collection_52c9951dad187.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Blade Trilogy 1998 - 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/blade.xml</link>
-<thumbnail>http://s10.postimg.org/4hfteqtyh/blade_collection_552be0ae744b4.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/dkdala87x/blade_collection_552be0ae744b4.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Captain America Duology 1990 - 2011 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/capt.xml</link>
-<thumbnail>http://s27.postimg.org/ydkhlo7tf/captain_america_collection_53dc09c5c1fe2.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/9dsg5y8m5/captain_america_collection_5432aa7e740ab.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Catwoman 2004 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/catw.xml</link>
-<thumbnail>http://s12.postimg.org/5jnp8axhp/catwoman_5214f2bd9c759.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/9mq0vvlel/catwoman_51519baac1550.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Daredevil 2002 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/dare.xml</link>
-<thumbnail>http://s18.postimg.org/8poqv3xih/daredevil_522cc4d315fb6.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/uv3pdazvh/daredevil_50bfe226c1f28.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -56,13 +56,7 @@
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Fantastic Four Trilogy 1994 - 2007 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/fant.xml</link>
-<thumbnail>http://s17.postimg.org/mjr7gbqyn/fantastic_four_collection_52317fa607319.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Green Lantern 2011 [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/gree.xml</link>
-<thumbnail>http://s8.postimg.org/5h74u7kv9/green_lantern_522bb05744891.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/w51isctnh/fantastic_four_collection_53148ad25cc89.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -72,39 +66,45 @@
 </dir>
 
 <dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Green Lantern 2011 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/gree.xml</link>
+<thumbnail>http://s12.postimg.org/rpnp0u6n1/green_lantern_5537cb424dee7.jpgthumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/howa.xml</link>
-<thumbnail>http://s1.postimg.org/41t7a6me7/howard_the_duck_52240d747943f.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Avengers 2012 [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/aven.xml</link>
-<thumbnail>http://s2.postimg.org/911iunq1l/Avengers_TN.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Hulk Duology 2003 - 2008 [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/hulk.xml</link>
-<thumbnail>http://s18.postimg.org/b8t9y4tpl/Hulk_the_incredible_hulk_35454576_800_600.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/k6zyegpwd/howard_the_duck_51fa798ad1b81.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Iron Man Trilogy 2008 - 2013 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/iron.xml</link>
-<thumbnail>http://s29.postimg.org/5ivwohjiv/iron_man_collection_52965ba6a6a0f.png</thumbnail>
+<thumbnail>http://s12.postimg.org/wvu8y4w0t/iron_man_collection_52965cc47ce56.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Jonah Hex 2010 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/jona.xml</link>
-<thumbnail>http://s9.postimg.org/hi0w1ip4f/jonah_hex_50a94f4c7c15a.png</thumbnail>
+<thumbnail>http://s12.postimg.org/wzsns4qvx/jonah_hex_51bd66a078d5c.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Man-Thing 2005 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/mant.xml</link>
 <thumbnail>http://s24.postimg.org/whupgi2zp/Man_Thing_TN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR orange] Coming Soon [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Avengers 2012 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/aven.xml</link>
+<thumbnail>http://s12.postimg.org/yc5rg9yxp/marvels_the_avengers_5047e0312c05c.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] The Hulk Duology 2003 - 2008 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/hulk.xml</link>
+<thumbnail>http://s18.postimg.org/b8t9y4tpl/Hulk_the_incredible_hulk_35454576_800_600.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -127,7 +127,7 @@
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Supergirl 1984 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supg.xml</link>
-<thumbnail>http://s9.postimg.org/3wfgz0cj3/supergirl_540bc847ce0a5.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/5ezu0v9ct/supergirl_542051fc2f685.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -139,13 +139,13 @@
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Superman ~ The Motion Picture Anthology 1978 - 2013 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/supm.xml</link>
-<thumbnail>http://s15.postimg.org/iy06gn9sb/superman_collection_5213ce9dea472.png</thumbnail>
+<thumbnail>http://s12.postimg.org/q5id2fy8t/superman_51e16922757dd.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Swamp Thing Duology 1982 - 1989 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/swam.xml</link>
-<thumbnail>http://s11.postimg.org/8fsktl14j/Swamp_Thing_1982_720p_Brlu_Ray_x264_x0r_fanart.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/6xv85ufx9/thor_collection_5457bd8a7e3f9.jpgthumbnail>
 </dir>
 
 <dir>
@@ -157,37 +157,12 @@
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR orange] DC-Comic's [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Watchmen ~ The Ultimate Cut 2009  [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/watc.xml</link>
-<thumbnail>http://s2.postimg.org/ae3ke2ull/watchmen_5212fc672d7bb.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/5wuzgpyxp/watchmen_504688b9f26ae.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] X-Men and the Wolverine Collection 2000 - 2014 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
-<thumbnail>http://s14.postimg.org/4llkuw075/x_men_collection_5431e83902cae.jpg</thumbnail>
+<thumbnail>http://s12.postimg.org/maeyzvf31/x_men_collection_541c150945f36.jpg</thumbnail>
 </dir>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -72,12 +72,6 @@
 </dir>
 
 <dir>
-<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/howa.xml</link>
-<thumbnail>http://s27.postimg.org/hyeud4bar/howard_the_duck_51fa798ad1b81_2.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Iron Man Trilogy 2008 - 2013 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/iron.xml</link>
 <thumbnail>http://s12.postimg.org/wvu8y4w0t/iron_man_collection_52965cc47ce56.jpg</thumbnail>
@@ -165,5 +159,11 @@
 <name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] X-Men and the Wolverine Collection 2000 - 2014 [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/xmen.xml</link>
 <thumbnail>http://s12.postimg.org/maeyzvf31/x_men_collection_541c150945f36.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*[/COLOR][COLOR yellow] Marvel [/COLOR][COLOR red]*[/COLOR][COLOR aqua] Howard the Duck 1986 [/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/hero/howa.xml</link>
+<thumbnail>http://s27.postimg.org/hyeud4bar/howard_the_duck_51fa798ad1b81_2.jpg</thumbnail>
 </dir>
 

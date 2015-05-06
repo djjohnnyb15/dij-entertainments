@@ -17,7 +17,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Adobe Photoshop Photoshop  CS5/CS6 1[/COLOR] </name>
+<name>[COLOR aqua]Adobe Photoshop  CS5/CS6 1[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/photoshop.xml</link>
 <thumbnail>http://s12.postimg.org/t6vyoyfb1/photoshop_cs5_mnemonic_png_550x544.png</thumbnail>
 </dir>
@@ -32,6 +32,12 @@
 <name>[COLOR aqua]Android App Development for Beginner[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/Android.xml</link>
 <thumbnail>http://s2.postimg.org/vbncxiejt/android_for_wallpaper_8_1.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]iOS Development with Swift Tutorial[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/ios.xml</link>
+<thumbnail>http://s11.postimg.org/4lg5pjmhv/swift_logo_hero.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -56,4 +62,10 @@
 <name>[COLOR aqua]wxPython Programming Tutorial[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/wxPython.xml</link>
 <thumbnail>http://s28.postimg.org/is5n6hkot/Wx_Python_logo.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]test[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/test.xml</link>
+<thumbnail>*</thumbnail>
 </dir>

@@ -1,0 +1,611 @@
+#######################################################################################################################################
+<poster>Dij-Entertainments</poster>
+<fanart>http://s8.postimg.org/6uwgup33p/Coding.jpg</fanart>
+#######################################################################################################################################
+
+<item>
+<title>[COLOR yellow]Pygame (Python Game Development) Tutorial [/COLOR]</title>
+<link>*</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 1 - Introduction</title>
+<link>https://www.youtube.com/watch?v=K5F-aGDIYaM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 2 - Creating a Basic Framework</title>
+<link>https://www.youtube.com/watch?v=iLL2V1es52I</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 3 - Events</title>
+<link>https://www.youtube.com/watch?v=umHZ6wnQTyQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 4 - Quit Event Handling</title>
+<link>https://www.youtube.com/watch?v=nE5EeQPiznU</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 5 - Colors and Fill</title>
+<link>https://www.youtube.com/watch?v=P8bx4nits-o</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 6 - Draw Rect and Fill</title>
+<link>https://www.youtube.com/watch?v=OGDJdeiuB5M</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 7 - Moving Rectangle</title>
+<link>https://www.youtube.com/watch?v=pp2opCTPa0k</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 8 - Moving Objects</title>
+<link>https://www.youtube.com/watch?v=ldh13IP8GAY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 9 - Frames Per Second</title>
+<link>https://www.youtube.com/watch?v=pNjSyBlbl_Q</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 10 - More User Control</title>
+<link>https://www.youtube.com/watch?v=BijaSsLMNOg</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 11 - Moving Up</title>
+<link>https://www.youtube.com/watch?v=Fq74VE-JTWE</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 12 - Boundaries</title>
+<link>https://www.youtube.com/watch?v=EHOYMe2HS8M</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 13 - Fixing the Hardcoding</title>
+<link>https://www.youtube.com/watch?v=3PEywupqE_4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 14 - Adding Text to the Screen</title>
+<link>https://www.youtube.com/watch?v=PzG-fnci8uE</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 15 - Game Over Functionality</title>
+<link>https://www.youtube.com/watch?v=juRZLrUkDtU</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 16 - Adding an Apple</title>
+<link>https://www.youtube.com/watch?v=ZFFA4lCUOEY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 17 - Eating the Apple</title>
+<link>https://www.youtube.com/watch?v=L8VE7o4wkM0</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 18 - More Apples and Snake Functions</title>
+<link>https://www.youtube.com/watch?v=YE3kENV_CHk</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 19 - Snake Length Rules</title>
+<link>https://www.youtube.com/watch?v=uj9msWzqRuo</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 20 - More Snake Functionality</title>
+<link>https://www.youtube.com/watch?v=4MUcUhL0tMw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 21 - How to Lengthen the Snake</title>
+<link>https://www.youtube.com/watch?v=fuyDyPeBZCM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 22 - More Object Contact</title>
+<link>https://www.youtube.com/watch?v=0HH-CDr-uog</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 23 - Fixing Some Stuff</title>
+<link>https://www.youtube.com/watch?v=Ww0onQ1_BbY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 24 - Collision Detection</title>
+<link>https://www.youtube.com/watch?v=6cw4jFSmZdk</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 25 - More Collision Detection</title>
+<link>https://www.youtube.com/watch?v=cBeKj2ZZ8TQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 26 - Finishing Up Collision Detection</title>
+<link>https://www.youtube.com/watch?v=zuF9BF21578</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 27 - Centering Text</title>
+<link>https://www.youtube.com/watch?v=t3eh6YiyCoQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 28 - Drawing the Snakes Head</title>
+<link>https://www.youtube.com/watch?v=d5RhJXNb9j0</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 29 - Attaching Snakes Head to Body</title>
+<link>https://www.youtube.com/watch?v=P4HGZthhkpg</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 30 - Using Logic to Rotate Images</title>
+<link>https://www.youtube.com/watch?v=eyBGydhnesM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 31 - Game Over Screen</title>
+<link>https://www.youtube.com/watch?v=Zlobv5pmZTc</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 32 - Updating Menus and Fonts</title>
+<link>https://www.youtube.com/watch?v=YymI_oE458A</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 33 - Start Screen</title>
+<link>https://www.youtube.com/watch?v=aRMxsTWHiKs</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 34 - Start Screen Logic</title>
+<link>https://www.youtube.com/watch?v=It8viQLa7E4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 35 - Apple Sprite</title>
+<link>https://www.youtube.com/watch?v=YlVGZOBLQiY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 36 - Creating a Game Icon</title>
+<link>https://www.youtube.com/watch?v=j_YoIb242gk</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 37 - randapple Function</title>
+<link>https://www.youtube.com/watch?v=05Z79eROSkg</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 38 - Adding the Score</title>
+<link>https://www.youtube.com/watch?v=Gyc5dMdP2uc</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 39 - Pausing the Game</title>
+<link>https://www.youtube.com/watch?v=sDL7P2Jhlh8</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 40 - Converting to Executable</title>
+<link>https://www.youtube.com/watch?v=BIWqt6NICrw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 41 - Finish Converting to Executable</title>
+<link>https://www.youtube.com/watch?v=xz2q2GaTBYE</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 42 - Pause and Game Over Non-Clearing</title>
+<link>https://www.youtube.com/watch?v=sjSeDtjNehQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 43 - Drawing Stuff</title>
+<link>https://www.youtube.com/watch?v=me6FIFSkLHw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 44 - Drawing More Stuff</title>
+<link>https://www.youtube.com/watch?v=q0mZ2XgEdZM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 45 - Cleaning the Slate</title>
+<link>https://www.youtube.com/watch?v=UHO2k-3sVcI</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 46 - Button Intro</title>
+<link>https://www.youtube.com/watch?v=D69T-pfI6LY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 47 - Button Adding</title>
+<link>https://www.youtube.com/watch?v=kmXKFTu_IyQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 48 - Responsive Hover</title>
+<link>https://www.youtube.com/watch?v=-Uc5BKxwNGo</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 49 - Button Functions</title>
+<link>https://www.youtube.com/watch?v=hJYUvUJCEeI</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 50 - Button Actions</title>
+<link>https://www.youtube.com/watch?v=Sn4PEsrlrPU</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 51 - Button Press Events</title>
+<link>https://www.youtube.com/watch?v=qznIo4Bc3Mg</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 52 - Controls Screen</title>
+<link>https://www.youtube.com/watch?v=Ox0HnIzLakE</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 53 - Tank Turret</title>
+<link>https://www.youtube.com/watch?v=tLFZfh-sW14</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 54 - Tank Body</title>
+<link>https://www.youtube.com/watch?v=SGBvCireMxI</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 55 - Tank Guns and Wheels</title>
+<link>https://www.youtube.com/watch?v=mDtCToVf39Q</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 56 - Moving Tank Part 1</title>
+<link>https://www.youtube.com/watch?v=AYls2ZpysjA</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 57 - Moving Tank Part 2</title>
+<link>https://www.youtube.com/watch?v=GcPbhGU95j4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 58 - Tank Turret Functionality</title>
+<link>https://www.youtube.com/watch?v=02tk_sSxTgg</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 59 - Moving the Turret Part 1</title>
+<link>https://www.youtube.com/watch?v=l-30guW0PsQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 60 - Moving the Turret Part 2</title>
+<link>https://www.youtube.com/watch?v=SfYkoFzmXo4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 61 - Barrier Part 1</title>
+<link>https://www.youtube.com/watch?v=wH5sNvNDkRc</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 62 - Barrier Part 2</title>
+<link>https://www.youtube.com/watch?v=hRv9Zu8u-ik</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 63 - Barrier Part 3</title>
+<link>https://www.youtube.com/watch?v=WnKUvfVE2R8</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 64 - Barrier Part 4</title>
+<link>https://www.youtube.com/watch?v=wzomhIXrkQY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 65 - Firing Part 1</title>
+<link>https://www.youtube.com/watch?v=dLWQ4vJFgqI</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 66 - Firing Part 2</title>
+<link>https://www.youtube.com/watch?v=NzyDu93kNMc</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 67 - Firing Part 3</title>
+<link>https://www.youtube.com/watch?v=uvuLlsWbDS4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 68 - Fire Power Part 1</title>
+<link>https://www.youtube.com/watch?v=AZzTc_IEajw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 69 - Fire Power Part 2</title>
+<link>https://www.youtube.com/watch?v=HJKi5Wyo-Ek</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 70 - Shell Collision</title>
+<link>https://www.youtube.com/watch?v=xthD0lMTIPY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 71 - Shell Explosion</title>
+<link>https://www.youtube.com/watch?v=ukKDZkebRow</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 72 - Hitting Barrier</title>
+<link>https://www.youtube.com/watch?v=xa6kpf_CTzM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 73 - Adding Ground</title>
+<link>https://www.youtube.com/watch?v=dy1tzeqz9JA</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 74 - Enemy Tank Part 1</title>
+<link>https://www.youtube.com/watch?v=zBmpM2DwkoM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 75 - Enemy Tank Part 2</title>
+<link>https://www.youtube.com/watch?v=tt7eY4lPRU4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 76 - Enemy Tank Fire</title>
+<link>https://www.youtube.com/watch?v=wm0FF-g5Z1k</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 77 - Health Bars</title>
+<link>https://www.youtube.com/watch?v=TcnWjyHVaOs</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 78 - Damage</title>
+<link>https://www.youtube.com/watch?v=J5TuuuZwQwI</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 79 - Game Over and Win</title>
+<link>https://www.youtube.com/watch?v=9lgc4kfGxq0</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 80 - Enemy Randomness</title>
+<link>https://www.youtube.com/watch?v=PvlVs5EhHEM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 81 - Hit Strength</title>
+<link>https://www.youtube.com/watch?v=rAHNAi_UIew</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 82 - Enemy Tank Movement</title>
+<link>https://www.youtube.com/watch?v=43U5ZiIptEs</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 83 - Sounds</title>
+<link>https://www.youtube.com/watch?v=FLAVoB8mpgo</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 84 - Fixing Power and Barrier</title>
+<link>https://www.youtube.com/watch?v=5QoMTFjhpkw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 85 - Pseudo 3D Intro</title>
+<link>https://www.youtube.com/watch?v=SmxMw37pqJ8</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 86 - Pseudo 3D Square</title>
+<link>https://www.youtube.com/watch?v=AeL1rPKDdIw</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 87 - Pseudo 3D Zoom</title>
+<link>https://www.youtube.com/watch?v=ppfJY6nMLfE</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 88 - Cube</title>
+<link>https://www.youtube.com/watch?v=OHBnboDZ8sQ</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 89 - X Axis Perspective</title>
+<link>https://www.youtube.com/watch?v=NqPIVnbCFek</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 90 - Y Axis Perspective</title>
+<link>https://www.youtube.com/watch?v=uGUJlfwDJ3w</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 91 - OpenGL Intro</title>
+<link>https://www.youtube.com/watch?v=Snl7UwuMoD4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 92 - Defining Vertices and Edges</title>
+<link>https://www.youtube.com/watch?v=If9bTeh4o7w</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 93 - OpenGL Block</title>
+<link>https://www.youtube.com/watch?v=kitNq9O4zio</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 94 - OpenGL Main Loop</title>
+<link>https://www.youtube.com/watch?v=XmomghI-ti4</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 95 - OpenGL Display Cube</title>
+<link>https://www.youtube.com/watch?v=K49lqNTClnM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 96 - PyOpenGL Display Rules</title>
+<link>https://www.youtube.com/watch?v=TU-wZWuWJI8</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 97 - Understanding Parameters</title>
+<link>https://www.youtube.com/watch?v=pS3Y6ehQpgM</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 98 - Zoom</title>
+<link>https://www.youtube.com/watch?v=XTHUKqZYRiY</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 99 - Colors</title>
+<link>https://www.youtube.com/watch?v=3DKhu1pIMFk</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Pygame (Python Game Development) Tutorial - 100 - Conclusion</title>
+<link>https://www.youtube.com/watch?v=VJRQSVMNKLA</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</item>
+

@@ -59,6 +59,18 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]Python 3.4 Programming Tutorial[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/Python2.xml</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Pygame (Python Game Development) Tutorial[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/Pygame.xml</link>
+<thumbnail>http://s17.postimg.org/hdcfhvumn/pygame_logo.gif</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]wxPython Programming Tutorial[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Educational/wxPython.xml</link>
 <thumbnail>http://s28.postimg.org/is5n6hkot/Wx_Python_logo.png</thumbnail>

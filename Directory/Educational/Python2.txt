@@ -1,0 +1,299 @@
+#######################################################################################################################################
+<poster>Dij-Entertainments</poster>
+<fanart>http://s8.postimg.org/6uwgup33p/Coding.jpg</fanart>
+#######################################################################################################################################
+
+<item>
+<title>Python 3.4 Programming Tutorials</title>
+<link>*</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 1 - Installing Python</title>
+<link>https://www.youtube.com/watch?v=HBxCHonP6Ro</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 2 - Numbers</title>
+<link>https://www.youtube.com/watch?v=hnxIRVZ0EyU</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 3 - Strings</title>
+<link>https://www.youtube.com/watch?v=nefopNkZmB4</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 4 - Slicing up Strings</title>
+<link>https://www.youtube.com/watch?v=YbipxqSKx-E</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 5 - Lists</title>
+<link>https://www.youtube.com/watch?v=1yUn-ydsgKk</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 6 - Installing PyCharm</title>
+<link>https://www.youtube.com/watch?v=-s4wKoLO520</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 7 - if elif else</title>
+<link>https://www.youtube.com/watch?v=bk22K1m0890</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 8 - for</title>
+<link>https://www.youtube.com/watch?v=llguiJHU0kk</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 9 - Range and While</title>
+<link>https://www.youtube.com/watch?v=Neir-vgPyxw</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 10 - Comments and Break</title>
+<link>https://www.youtube.com/watch?v=k6rkvgQkW04</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 11 - Continue</title>
+<link>https://www.youtube.com/watch?v=68EhtQbgXRc</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 12 - Functions</title>
+<link>https://www.youtube.com/watch?v=j2xhtI0WTew</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 13 - Return Values</title>
+<link>https://www.youtube.com/watch?v=xRIzPZlei9I</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 14 - Default Values for Arguments</title>
+<link>https://www.youtube.com/watch?v=mwr1AtpLMpI</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 15 - Variable Scope</title>
+<link>https://www.youtube.com/watch?v=f3TVuuhe-fY</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 16 - Keyword Arguments</title>
+<link>https://www.youtube.com/watch?v=DASOXeFFkCg</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 17 - Flexible Number of Arguments</title>
+<link>https://www.youtube.com/watch?v=QSTo9F8E6GE</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 18 - Unpacking Arguments</title>
+<link>https://www.youtube.com/watch?v=DJ2HSCT6Z8w</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 19 - My trip to Walmart and Sets</title>
+<link>https://www.youtube.com/watch?v=23eY8n08pMc</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 20 - Dictionary</title>
+<link>https://www.youtube.com/watch?v=BSNFRKG1MfE</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 21 - Modules</title>
+<link>https://www.youtube.com/watch?v=WN4A6iJOUns</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 22 - Download an Image from the Web</title>
+<link>https://www.youtube.com/watch?v=GQiLweAoxgQ</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 23 - How to Read and Write Files</title>
+<link>https://www.youtube.com/watch?v=YV6qm6erphk</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 24 - Downloading Files from the Web</title>
+<link>https://www.youtube.com/watch?v=MjwWzBiAMck</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 25 - How to Build a Web Crawler (1/3)</title>
+<link>https://www.youtube.com/watch?v=XjNm9bazxn8</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<titlePython Programming Tutorial - 26 - How to Build a Web Crawler (2/3)title>
+<link>https://www.youtube.com/watch?v=sVNJOiTBi_8</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 27 - How to Build a Web Crawler (3/3)</title>
+<link>https://www.youtube.com/watch?v=pLHejmLB16o</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 28 - You are the only Exception</title>
+<link>https://www.youtube.com/watch?v=1cCU0owdiR4</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 29 - Classes and Objects</title>
+<link>https://www.youtube.com/watch?v=POQIIKb1BZA</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 30 - init</title>
+<link>https://www.youtube.com/watch?v=G8kS24CtfoI</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 31 - Class vs Instance Variables</title>
+<link>https://www.youtube.com/watch?v=qSDiHI1kP98</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 32 - Inheritance</title>
+<link>https://www.youtube.com/watch?v=oROcVrgz91Y</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 33 - Multiple Inheritance</title>
+<link>https://www.youtube.com/watch?v=YCEVvs5BhpY</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 34 - threading</title>
+<link>https://www.youtube.com/watch?v=WaXK8G1hb_Q</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 35 - Word Frequency Counter (1/3)</title>
+<link>https://www.youtube.com/watch?v=ZxiJ92-4Qys</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 36 - Word Frequency Counter (2/3)</title>
+<link>https://www.youtube.com/watch?v=up5Xehmtn2E</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 37 - Word Frequency Counter (3/3)</title>
+<link>https://www.youtube.com/watch?v=E3T5cm0yys0</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 38 - Unpack List or Tuples</title>
+<link>https://www.youtube.com/watch?v=XhXOsgdC9h0</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 39 - Zip (and yeast infection story)</title>
+<link>https://www.youtube.com/watch?v=cTXHmOt7Rwc</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 40 - Lamdba</title>
+<link>https://www.youtube.com/watch?v=Xe1tnfl4jDY</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 41 - Min, Max, and Sorting Dictionaries</title>
+<link>https://www.youtube.com/watch?v=U5I-2UZBOVg</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 42 - Pillow</title>
+<link>https://www.youtube.com/watch?v=_H9uPRJWMNk</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 43 - Cropping Images</title>
+<link>https://www.youtube.com/watch?v=SiOBAhUiNCc</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 44 - Combine Images Together</title>
+<link>https://www.youtube.com/watch?v=uR50xQX27-g</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 45 - Getting Individual Channels</title>
+<link>https://www.youtube.com/watch?v=c6z990uViDE</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 46 - Awesome Merge Effect</title>
+<link>https://www.youtube.com/watch?v=NSbjuqHLxJA</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 47 - Basic Transformations</title>
+<link>https://www.youtube.com/watch?v=El0mbC7olFc</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+
+<item>
+<title>Python Programming Tutorial - 48 - Modes and Filters</title>
+<link>https://www.youtube.com/watch?v=-hzbRgRSI_U</link>
+<thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
+</item>
+

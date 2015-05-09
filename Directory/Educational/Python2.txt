@@ -4,7 +4,7 @@
 #######################################################################################################################################
 
 <item>
-<title>Python 3.4 Programming Tutorials</title>
+<title>[COLOR yellow]Python 3.4 Programming Tutorials[/COLOR]</title>
 <link>*</link>
 <thumbnail>http://s27.postimg.org/m55sku72b/Python_logo_notext_svg.png</thumbnail>
 </item>

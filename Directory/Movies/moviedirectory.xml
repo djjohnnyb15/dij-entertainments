@@ -3,23 +3,26 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
- 
+<dir>
 <name>[COLOR aqua]Cinema[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/cinema/cinema.xml</link>
 <thumbnail>http://s27.postimg.org/vtl2t72oz/cin.png</thumbnail>
-<date>DIJ</date>
+</dir>
 
+<dir>
 <name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
 <thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
-<date>DIJ</date>
+</dir>
 
+<dir>
 <name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
 <thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
-<date>DIJ</date>
+</dir>
 
+<dir>
 <name>[COLOR aqua]MOVIES BY GENRE[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
 <thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
-<date>DIJ</date>
+</dir>

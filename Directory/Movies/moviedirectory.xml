@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>djjohnnyb15</poster>
-<fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
+<fanart>http://s14.postimg.org/683y0vmm9/012353999_prevstill.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
@@ -25,4 +25,10 @@
 <name>[COLOR aqua]Genre[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
 <thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Requests[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
+<thumbnail>http://s27.postimg.org/vtl2t72oz/cin.png</thumbnail>
 </dir>

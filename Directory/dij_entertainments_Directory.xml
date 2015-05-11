@@ -14,12 +14,6 @@
 <thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]Cinema[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/cinema/cinema.xml</link>
-<thumbnail>http://s27.postimg.org/vtl2t72oz/cin.png</thumbnail>
-<date>DIJ</date>
-
-
 <name>[COLOR aqua]Fitness Dvds[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/fitness/fitnessdir.xml</link>
 <thumbnail>http://s24.postimg.org/94zdcj9x1/fit.png</thumbnail>
@@ -35,22 +29,6 @@
 <thumbnail>http://s28.postimg.org/7d6etmu59/Home_Brew_Poster1.jpg</thumbnail>
 <date>DIJ</date>
 
-<name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
-<thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
-<date>DIJ</date>
-
-<name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
-<thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
-<date>DIJ</date>
-
-<name>[COLOR aqua]MOVIES BY GENRE[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
-<thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
-<date>DIJ</date>
-
-
 <name>[COLOR aqua]Requests[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Requests.xml</link>
 <thumbnail>http://s30.postimg.org/5opug7869/Requests.png</thumbnail>
@@ -60,7 +38,6 @@
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</link>
 <thumbnail>http://s10.postimg.org/epko6r8gp/tvsh.png</thumbnail>
 <date>DIJ</date>
-
 
 <name>[COLOR aqua]SPORT[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/menu.xml</link>

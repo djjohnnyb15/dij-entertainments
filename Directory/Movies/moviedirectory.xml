@@ -10,19 +10,19 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]MOVIES Collections[/COLOR]</name>
+<name>[COLOR aqua]Collections[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/moviecoll/moviecoll.xml</link>
 <thumbnail>http://s9.postimg.org/ciczn98z3/movie_co.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
+<name>[COLOR aqua]Kids[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies.xml</link>
 <thumbnail>http://s2.postimg.org/465404hg9/kids.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]MOVIES BY GENRE[/COLOR]</name>
+<name>[COLOR aqua]Genre[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/movies/Movies.xml</link>
 <thumbnail>http://s9.postimg.org/ag7wv9lm7/genr.png</thumbnail>
 </dir>

@@ -3,6 +3,7 @@
 <fanart>http://s23.postimg.org/m8juru3fv/kodi_winter_header.jpg</fanart>
 #######################################################################################################################################
 
+
 <item>
 <title>[COLOR yellow]All Things Kodi[/COLOR]</title>
 <link>*</link>
@@ -10,20 +11,80 @@
 </item>
 
 <item>
-<title>How to install Xbmc/Kodi on a Windows PC</title>
+<title>XBMC/KODI - How to get The Mutts Nuts</title>
+<link>https://www.youtube.com/watch?v=Dw7vtZeUKrU</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to add Shortcuts to your main menu</title>
+<link>https://www.youtube.com/watch?v=jZeAaR3YF28</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How To Install Sparky's Streams Addon</title>
+<link>https://www.youtube.com/watch?v=64HODLOZU54</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How To Install MetalKettle Repository</title>
+<link>https://www.youtube.com/watch?v=E8hmt_zLLaY</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to setup p2p & Istream</title>
+<link>https://www.youtube.com/watch?v=_a6MIqM6LS8</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to install Xbmc/Kodi on a Windows PC</title>
 <link>https://www.youtube.com/watch?v=dKbXnW-OYe4</link>
 <thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
 </item>
 
 <item>
-<title>Install KODI 14 0 Helix with ADDONS Updated 12-24-2014</title>
+<title>XBMC/KODI - How To Install KODI 14 0 Helix with ADDONS</title>
 <link>https://www.youtube.com/watch?v=9iQqPhYfHzc</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to add EPG</title>
+<link>https://www.youtube.com/watch?v=0HXbMmrgfFc</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>How to install GENESIS add on on Kodi</title>
+<link>https://www.youtube.com/watch?v=CWwAOlUEraU</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>Install Kodi on the Amazon Fire Stick or Fire TV (no weird downloads)</title>
+<link>https://www.youtube.com/watch?v=AoQgNH5b8No</link>
 <thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
 </item>
 
 <item>
 <title>INSTALL THE MOST AMAZING ADDON EVER ON XBMC/Kodi</title>
 <link>https://www.youtube.com/watch?v=2_NkJjyQkuU</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to install vdubt25 addon</title>
+<link>https://www.youtube.com/watch?v=NAO6CUCC_a0</link>
+<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
+</item>
+
+<item>
+<title>XBMC/KODI - How to use the Genesis Addon on Kodi</title>
+<link>https://www.youtube.com/watch?v=cg2TN6zgvDc</link>
 <thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
 </item>
 
@@ -56,28 +117,3 @@
 <link>https://www.youtube.com/watch?v=hn0WIpvm4Mw</link>
 <thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
 </item>
-
-<item>
-<title>XBMC/KODI - How to get The Mutts Nuts</title>
-<link>https://www.youtube.com/watch?v=Dw7vtZeUKrU</link>
-<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
-</item>
-
-<item>
-<title>XBMC/KODI - How to add Shortcuts to your main menu</title>
-<link>https://www.youtube.com/watch?v=jZeAaR3YF28</link>
-<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
-</item>
-
-<item>
-<title>XBMC/KODI - How To Install Sparky's Streams Addon</title>
-<link>https://www.youtube.com/watch?v=64HODLOZU54</link>
-<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
-</item>
-
-<item>
-<title>Add MetalKettle Repository to xbmc or kodi setup</title>
-<link>https://www.youtube.com/watch?v=E8hmt_zLLaY</link>
-<thumbnail>http://s24.postimg.org/qu6vjq1r9/0020_999_1422510692_kodi256.png</thumbnail>
-</item>
-

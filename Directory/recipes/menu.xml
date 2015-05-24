@@ -1,0 +1,19 @@
+#######################################################################################################################################
+<poster>Dij-Entertainments</poster>
+<fanart>http://s10.postimg.org/o817tpl9l/Recipes_Widget.jpg</fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>[COLOR aqua]Curry Recipes[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Home/curry.xml</link>
+<thumbnail>http://s10.postimg.org/o817tpl9l/Recipes_Widget.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Cooking With Kids[/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Home/kids.xml</link>
+<thumbnail>http://s10.postimg.org/o817tpl9l/Recipes_Widget.jpg</thumbnail>
+</dir>
+
+

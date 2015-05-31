@@ -10,6 +10,12 @@
 #####################################################################################################################
 
 <dir>
+<name>[COLOR aqua]Bing[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/bing.xml</link>
+<thumbnail>http://s10.postimg.org/3xz1x6l49/bing_onward_journey_image_bid.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]KIDS MOVIES 1[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/kidsmovies1.xml</link>
 <thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
@@ -26,6 +32,8 @@
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies/singingkettle.xml</link>
 <thumbnail>http://s7.postimg.org/vcwz6563f/singingkettle_jpg4.jpg</thumbnail>
 </dir>
+
+
 
 
 

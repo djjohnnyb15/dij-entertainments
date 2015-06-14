@@ -12,7 +12,7 @@ rtmpe://46.246.124.89:1935/livedge playpath=sskys1  pageUrl=http://www.hdcast.or
 rtmp://89.248.172.159:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=67&width=700&height=450 token=#atd%#$ZH
 
 #EXTINF:0,Sky Sports 2 HQ
-http://195.154.227.38:1935/live/skysports2lsh/ukturk.m3u8
+rtmp://80.82.78.15:443/liverepeater/ playpath=16 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:0,Sky Sports 2 
 rtmpe://46.246.124.89:1935/livedge playpath=sskys2  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch

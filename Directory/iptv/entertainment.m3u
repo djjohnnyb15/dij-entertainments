@@ -38,6 +38,9 @@ http://78.129.175.72/live/channel4/channel4.m3u8
 #EXTINF:0,Channel Four+1
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
 
+#EXTINF:0,Channel Five
+http://198.179.30.108/live/22.low.stream/playlist.m3u8
+
 #EXTINF:0,More 4
 http://live8.gv.edge.filmon.com/live/97.low.stream/chunklist_w808752792.m3u8
 
@@ -45,10 +48,10 @@ http://live8.gv.edge.filmon.com/live/97.low.stream/chunklist_w808752792.m3u8
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
 
 #EXTINF:0,5USA
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+http://live308.edge.filmon.com/live/371.low.stream/chunklist_w1496523719.m3u8
 
 #EXTINF:0,Dave
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+http://live308.edge.filmon.com/live/370.low.stream/chunklist_w1324889958.m3u8
 
 #EXTINF:0,TLC (Change To English In Player Settings)
 http://78.30.254.43:8989/udp/239.0.0.32:4000

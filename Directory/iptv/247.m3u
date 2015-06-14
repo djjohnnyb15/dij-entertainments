@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,CLASSIC LOONEY TUNES
+http://167.114.65.74/hls/lt.m3u8
+#EXTINF:-1,King of the Hill
+http://167.114.65.74/hls/kh.m3u8
+#EXTINF:-1,FUTURAMA 
+http://167.114.65.74/hls/fa.m3u8 
+#EXTINF:-1,AMERICAN DAD
+http://167.114.65.74/hls/ad.m3u8 
+#EXTINF:-1,FAMILY GUY
+http://167.114.65.74/hls/fg.m3u8 
+#EXTINF:-1,SOUTH PARK
+http://167.114.65.88/hls/sp.m3u8 
+#EXTINF:-1,SOUTH PARK
+http://167.114.65.88/hls/sp.m3u8 
+#EXTINF:-1,The Simpsons
+http://167.114.65.88/hls/ss.m3u8 
+#EXTINF:-1,Bobs Burgers
+http://167.114.65.74/hls/bb.m3u8

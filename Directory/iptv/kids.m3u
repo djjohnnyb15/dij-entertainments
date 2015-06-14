@@ -1,27 +1,27 @@
 #EXTM3U
-#A:-1,Baby TV
+#EXTINF:0,Baby TV
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
 
-#A:-1,RTE junior
+#EXTINF:0,RTE junior
 http://212.250.46.35:4252/bysid/9606
 
-#A:-1,CBBC HD 
+#EXTINF:0,CBBC HD 
 http://vs-hds-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-audio_1%3D128000-video%3D3500000.m3u8
 
-#A:-1,Disney Jnr+
+#EXTINF:0,Disney Jnr+
 rtmp://198.100.156.87:1935/iptv/ch84
 
-#A:-1,Cartoon Network HQ (Change To English In Player Settings)
+#EXTINF:0,Cartoon Network HQ (Change To English In Player Settings)
 http://5.128.118.163:7777/udp/239.1.3.3:1234
 
-#A:-1,Cartoon Network
+#EXTINF:0,Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#A:-1,Nickelodeonn (Change To English In Player Settings)
+#EXTINF:0,Nickelodeonn (Change To English In Player Settings)
 http://188.168.241.125:4022/udp/233.12.144.12:5050
 
-#A:-1,Nick Jnr (Change To English In Player Settings)
+#EXTINF:0,Nick Jnr (Change To English In Player Settings)
 http://188.168.241.125:4022/udp/233.12.144.85:5050
 
-#A:-1,JimJam (Change To English In Player Settings)
+#EXTINF:0,JimJam (Change To English In Player Settings)
 http://78.30.254.43:8989/udp/239.0.0.192:4000

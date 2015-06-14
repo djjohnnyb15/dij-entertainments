@@ -1,413 +1,413 @@
 #EXTM3U
-#A:-1,Sky Sports 1 HQ (Shows Premier League)
+#EXTINF:0,Sky Sports 1 HQ (Shows Premier League)
 http://185.56.30.127:8082/TV4284
 
-#A:-1,Sky Sports 1 HQ (Shows Premier League)
+#EXTINF:0,Sky Sports 1 HQ (Shows Premier League)
 http://195.154.227.38:1935/live/skysports1lsh/ukturk.m3u8
 
-#A:-1,Sky Sports 1 (ALT) (Shows Premier League)
+#EXTINF:0,Sky Sports 1 (ALT) (Shows Premier League)
 rtmpe://46.246.124.89:1935/livedge playpath=sskys1  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports 1 (ALT) (Shows Premier League)
+#EXTINF:0,Sky Sports 1 (ALT) (Shows Premier League)
 rtmp://89.248.172.159:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=67&width=700&height=450 token=#atd%#$ZH
 
-#A:-1,Sky Sports 2 HQ
+#EXTINF:0,Sky Sports 2 HQ
 http://195.154.227.38:1935/live/skysports2lsh/ukturk.m3u8
 
-#A:-1,Sky Sports 2 
+#EXTINF:0,Sky Sports 2 
 rtmpe://46.246.124.89:1935/livedge playpath=sskys2  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports 3 HQ
+#EXTINF:0,Sky Sports 3 HQ
 http://185.56.30.127:8082/TV4286
 
-#A:-1,Sky Sports 3 HQ (ALT)
+#EXTINF:0,Sky Sports 3 HQ (ALT)
 http://195.154.227.38:1935/live/skysports3lsh/ukturk.m3u8
 
-#A:-1,Sky Sports 3
+#EXTINF:0,Sky Sports 3
 rtmpe://46.246.124.89:1935/livedge playpath=sskys3  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports 4 HQ
+#EXTINF:0,Sky Sports 4 HQ
 http://185.56.30.127:8082/TV4130
 
-#A:-1,Sky Sports 4 HQ (ALT)
+#EXTINF:0,Sky Sports 4 HQ (ALT)
 http://195.154.227.38:1935/live/skysports4lsh/ukturk.m3u8
 
-#A:-1,Sky Sports 4 (ALT)
+#EXTINF:0,Sky Sports 4 (ALT)
 rtmpe://46.246.124.89:1935/livedge playpath=sskys4  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports 4 
+#EXTINF:0,Sky Sports 4 
 http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
 
-#A:-1,Sky Sports 5 HQ (Shows European Football)
+#EXTINF:0,Sky Sports 5 HQ (Shows European Football)
 http://195.154.227.38:1935/live/skysports5lsh/ukturk.m3u8
 
-#A:-1,Sky Sports 5 (Shows European Football)
+#EXTINF:0,Sky Sports 5 (Shows European Football)
 rtmpe://46.246.124.89:1935/livedge playpath=sskys5  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports News 
+#EXTINF:0,Sky Sports News 
 rtmp://31.220.0.195:80/live playpath=ssbxx pageUrl=http://reytv.co token=%Zrey(nKa@#Z
 
-#A:-1,Sky Sports News (ALT)
+#EXTINF:0,Sky Sports News (ALT)
 rtmpe://46.246.124.89:1935/livedge playpath=sskysn  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports F1
+#EXTINF:0,Sky Sports F1
 rtmpe://46.246.124.89:1935/livedge playpath=sskysf1  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Sky Sports F1 (ALT)
+#EXTINF:0,Sky Sports F1 (ALT)
 http://bit.do/5Arn
 
-#A:-1,Box Nation
+#EXTINF:0,Box Nation
 rtmp://31.220.0.195:80/live playpath=bxx pageUrl=http://reytv.co token=%Zrey(nKa@#Z
 
-#A:-1,Box Nation (ALT)
+#EXTINF:0,Box Nation (ALT)
 rtmp://31.220.0.195:80/live playpath=bxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.reytv.co/embed.php?live=bxx&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,Box Nation (ALT)
+#EXTINF:0,Box Nation (ALT)
 rtmpe://46.246.124.89:1935/livedge playpath=sboxn pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,BT Sport 1 HQ (Shows Premier League)
+#EXTINF:0,BT Sport 1 HQ (Shows Premier League)
 rtmp://89.248.172.159:443/liverepeater playpath=42 pageUrl=http://popeoftheplayers.eu token=#atd%#$ZH
 
-#A:-1,BT Sport 1 HQ (ALT) (Shows Premier League)
+#EXTINF:0,BT Sport 1 HQ (ALT) (Shows Premier League)
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=620&height=450 token=#atd%#$ZH
 
-#A:-1,BT Sport 1 (Shows Premier League)
+#EXTINF:0,BT Sport 1 (Shows Premier League)
 rtmpe://46.246.124.14:1935/live/ playpath=btsports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports1lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
 
-#A:-1,BT Sport 1 (ALT) (Shows Premier League)
+#EXTINF:0,BT Sport 1 (ALT) (Shows Premier League)
 rtmpe://46.246.124.89:1935/livedge playpath=sbt1  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,BT Sport 2
+#EXTINF:0,BT Sport 2
 rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
 
-#A:-1,BT Sport 2 (ALT)
+#EXTINF:0,BT Sport 2 (ALT)
 rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
 
-#A:-1,BT Sport 2 (ALT)
+#EXTINF:0,BT Sport 2 (ALT)
 rtmpe://46.246.124.89:1935/livedge playpath=sbt2  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,BT Sport 2 (ALT)
+#EXTINF:0,BT Sport 2 (ALT)
 rtmp://198.100.156.87:1935/iptv/ch86
 
-#A:-1,Sky Sports-News/BT Sport/ESPN HD 1
+#EXTINF:0,Sky Sports-News/BT Sport/ESPN HD 1
 rtmp://w16.vmnode.pw:2195/live playpath=elite55 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite55.php live=1
 
-#A:-1,Sky Sports-News/BT Sport/ESPN HD 2
+#EXTINF:0,Sky Sports-News/BT Sport/ESPN HD 2
 rtmp://w11.vmnode.pw:1935/live playpath=elite52 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite52.php live=1
 
-#A:-1,Sky Sports-News/BT Sport/ESPN HD 3
+#EXTINF:0,Sky Sports-News/BT Sport/ESPN HD 3
 rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=1
 
-#A:-1,Sky Sports-News/BT Sport/ESPN HD 4
+#EXTINF:0,Sky Sports-News/BT Sport/ESPN HD 4
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 
 
-#A:-1,AstroSports 1-2-3/Fox Sports HD 1
+#EXTINF:0,AstroSports 1-2-3/Fox Sports HD 1
 rtmp://66.55.92.44/app playpath=maskcrusaderss-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/maskcrusaderss-Channel/plugins/video/show?startMuted=false
 
-#A:-1,AstroSports 1-2-3/Fox Sports HD 2
+#EXTINF:0,AstroSports 1-2-3/Fox Sports HD 2
 rtmp://199.168.116.16/app playpath=repomans-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/repomans-Channel/plugins/video/show?startMuted=false
 
-#A:-1,NBCSN HD (DOWN AT MOMENT) (Shows Premier League)
+#EXTINF:0,NBCSN HD (DOWN AT MOMENT) (Shows Premier League)
 rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
 
-#A:-1,TSN 1 (Shows Premier League)
+#EXTINF:0,TSN 1 (Shows Premier League)
 rtmp://31.220.0.195:80/live/tx1 pageUrl=http://reytv.co token=%Zrey(nKa@#Z
 
-#A:-1,TSN 1 (ALT) (Shows Premier League) 
+#EXTINF:0,TSN 1 (ALT) (Shows Premier League) 
 rtmp://31.220.0.195:80/live playpath=tx1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.reytv.co/embed.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,TSN 1 (ALT) (Shows Premier League) 
+#EXTINF:0,TSN 1 (ALT) (Shows Premier League) 
 rtmp://31.220.0.195:80/live/ playpath=tx1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
  
-#A:-1,TSN 2 (Shows Premier League) 
+#EXTINF:0,TSN 2 (Shows Premier League) 
 rtmp://31.220.0.195:80/live/ playpath=tsn2x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co
 
-#A:-1,TSN 2 (ALT) (Shows Premier League)
+#EXTINF:0,TSN 2 (ALT) (Shows Premier League)
 rtmp://31.220.0.195:80/live playpath=tsn2x swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.reytv.co/embed.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,Sportsnet Ontario (Shows Premier League)
+#EXTINF:0,Sportsnet Ontario (Shows Premier League)
 rtmp://31.220.0.195:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co
 
-#A:-1,Sportsnet Ontario (ALT) (Shows Premier League) 
+#EXTINF:0,Sportsnet Ontario (ALT) (Shows Premier League) 
 rtmp://31.220.0.195:80/live playpath=sno swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,Sportsnet 360 HD (Shows Premier League) 
+#EXTINF:0,Sportsnet 360 HD (Shows Premier League) 
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-#A:-1,Bein Sports 1 HD (Shows Premier & Various Football)
+#EXTINF:0,Bein Sports 1 HD (Shows Premier & Various Football)
 http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
 
-#A:-1,Bein Sports 1 Asia (English Spoken) (Shows Various Football)
+#EXTINF:0,Bein Sports 1 Asia (English Spoken) (Shows Various Football)
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 
-#A:-1,Bein Sports 2 Asia (English Spoken) (Shows Various Football)
+#EXTINF:0,Bein Sports 2 Asia (English Spoken) (Shows Various Football)
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 
-#A:-1,Bein Sports 3 Asia (English Spoken) (Shows Premier & Various Football)
+#EXTINF:0,Bein Sports 3 Asia (English Spoken) (Shows Premier & Various Football)
 http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 
-#A:-1,Bein Sports 12 HD (English Spoken) (Shows Premier & Various Football)
+#EXTINF:0,Bein Sports 12 HD (English Spoken) (Shows Premier & Various Football)
 http://185.56.30.127:8082/TV4012
 
-#A:-1,Bein Sports 1 HD France (Shows Various Football)
+#EXTINF:0,Bein Sports 1 HD France (Shows Various Football)
 http://185.56.30.127:8082/TV4016
 
-#A:-1,Bein Sports 2 HD France (Shows Various Football)
+#EXTINF:0,Bein Sports 2 HD France (Shows Various Football)
 http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8
 
-#A:-1,Bein Sports HD Spain (Shows Various Football)
+#EXTINF:0,Bein Sports HD Spain (Shows Various Football)
 http://sedermaza.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
 
-#A:-1,Benfica TV (Shows Premier League)
+#EXTINF:0,Benfica TV (Shows Premier League)
 http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
 
-#A:-1,MUTV
+#EXTINF:0,MUTV
 rtmp://31.220.0.195:80/live playpath=mutvr swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=mutvr&vw=620&vh=490
 
-#A:-1,LFC TV
+#EXTINF:0,LFC TV
 rtmp://46.246.29.130:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
 
-#A:-1,Premier Sports
+#EXTINF:0,Premier Sports
 rtmp://31.220.0.195:80/live playpath=premiersport swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,Eurosport 1 UK
+#EXTINF:0,Eurosport 1 UK
 rtmp://89.248.172.159:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=530&height=370 token=#atd%#$ZH
 
-#A:-1,Eurosport 2 UK 
+#EXTINF:0,Eurosport 2 UK 
 rtmp://80.82.64.140:443/liverepeater playpath=21  swfUrl=http://popeoftheplayers.eu/atdedead.swf  pageUrl=http://popeoftheplayers.eu/player3.php?id=47&width=600&height=450 token=#atd%#$ZH
 
-#A:-1,Eurosport HD
+#EXTINF:0,Eurosport HD
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
 
-#A:-1,OSN Sports
+#EXTINF:0,OSN Sports
 rtmp://195.154.232.181:80/liverepeater playpath=308111 swfUrl=http://cdn.goodcast.co/players.swf live=1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15 swfVfy=1 pageUrl=http://goodcast.co.uk/stream.php?id=308111&width=640&height=460
 
-#A:-1,Fubo TV HD (English Spoken) (Shows Various Football)
+#EXTINF:0,Fubo TV HD (English Spoken) (Shows Various Football)
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist_b2270208.m3u8
 
-#A:-1,NTV+ Football 1 HD (Shows Premier & Various Football)
+#EXTINF:0,NTV+ Football 1 HD (Shows Premier & Various Football)
 http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
 
-#A:-1,NTV+ Football 1 SD (Shows Premier & Various Football)
+#EXTINF:0,NTV+ Football 1 SD (Shows Premier & Various Football)
 http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
 
-#A:-1,NTV+ Football 2 HD (Shows Premier & Various Football)
+#EXTINF:0,NTV+ Football 2 HD (Shows Premier & Various Football)
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 
-#A:-1,NTV+ Football 2 SD (Shows Premier & Various Football)
+#EXTINF:0,NTV+ Football 2 SD (Shows Premier & Various Football)
 http://78.30.254.43:8989/udp/239.0.0.96:4000
 
-#A:-1,NTV+ Football 3 (Shows Various Football)
+#EXTINF:0,NTV+ Football 3 (Shows Various Football)
 http://78.30.254.43:8989/udp/239.0.0.96:4000
 
-#A:-1,GOL TV HD (Shows Various Football)
+#EXTINF:0,GOL TV HD (Shows Various Football)
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
 
-#A:-1,Viasat Sport Baltic
+#EXTINF:0,Viasat Sport Baltic
 http://88.118.131.29/vsb.m3u8
 
-#A:-1,Viasat Sport (Change To English In Player Settings)
+#EXTINF:0,Viasat Sport (Change To English In Player Settings)
 http://78.30.254.43:8989/udp/239.0.0.179:4000
 
-#A:-1,C More Sport (Shows Various Football)
+#EXTINF:0,C More Sport (Shows Various Football)
 http://bit.do/2NFi
 
-#A:-1,C More Sport (ALT) (Shows Various Football)
+#EXTINF:0,C More Sport (ALT) (Shows Various Football)
 http://188.138.9.228:8023
 
-#A:-1,Cel Sports 5 HD (Shows Various Football)
+#EXTINF:0,Cel Sports 5 HD (Shows Various Football)
 http://194.90.120.149:1935/cellcom_CelSport5HDPublish/_definst_/smil:CelSport5HD_pub_group.smil/chunklist_w1241810288_b27128000.m3u8
 
-#A:-1,NTV+ Tennis (Show All Tennis Comps)
+#EXTINF:0,NTV+ Tennis (Show All Tennis Comps)
 http://78.30.254.43:8989/udp/239.0.0.94:4000
 
-#A:-1,NTV+ Basketball
+#EXTINF:0,NTV+ Basketball
 http://78.30.254.43:8989/udp/239.0.0.95:4000
 
-#A:-1,Ciao Sports (Shows Various Sports)
+#EXTINF:0,Ciao Sports (Shows Various Sports)
 http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8
 
-#A:-1,SuperSport 1 HD (Shows Various Football)
+#EXTINF:0,SuperSport 1 HD (Shows Various Football)
 http://81.7.13.162/hls/ss1/index.m3u8
 
-#A:-1,SuperSport 2 HD (Shows Various Football)
+#EXTINF:0,SuperSport 2 HD (Shows Various Football)
 http://81.7.13.162/hls/ss2/index.m3u8
 
-#A:-1,SuperSport 3 HD (Shows Various Football)
+#EXTINF:0,SuperSport 3 HD (Shows Various Football)
 http://81.7.13.162/hls/ss3/index.m3u8
 
-#A:-1,SuperSport 4 HD (Shows Various Football)
+#EXTINF:0,SuperSport 4 HD (Shows Various Football)
 http://81.7.13.162/hls/ss4/index.m3u8
 
-#A:-1,Polsat Sport HD (Shows Various Football)
+#EXTINF:0,Polsat Sport HD (Shows Various Football)
 rtmp://195.154.225.25:80/liverepeater playpath=303051 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/stream.php?id=303051&width=700&height=450&stretching= token=Fo5_n0w?U.rA6l3-70w47ch
 
-#A:-1,Our Football HD Russia (Shows Various Football)
+#EXTINF:0,Our Football HD Russia (Shows Various Football)
 http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
 
-#A:-1,Sport 1 Russia (Shows Various Football & Sports)
+#EXTINF:0,Sport 1 Russia (Shows Various Football & Sports)
 http://canli.ecanlitvizle.com/org13/sport1_me/playlist.m3u8
 
-#A:-1,Sport 1 Russia (ALT) (Shows Various Football & Sports)
+#EXTINF:0,Sport 1 Russia (ALT) (Shows Various Football & Sports)
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 
-#A:-1,Our Football Ukraine (Shows Various Football)
+#EXTINF:0,Our Football Ukraine (Shows Various Football)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 
-#A:-1,TRT Spor (Shows Various Football)
+#EXTINF:0,TRT Spor (Shows Various Football)
 http://canli.ecanlitvizle.com/org6/trtspor_me/playlist.m3u8
 
-#A:-1,NTV Sport (Shows Various Football)
+#EXTINF:0,NTV Sport (Shows Various Football)
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 
-#A:-1,Ten Sports
+#EXTINF:0,Ten Sports
 http://cdn.ebound.tv:1935/tv/tensports/playlist.m3u8
 
-#A:-1,Ten Cricket HD
+#EXTINF:0,Ten Cricket HD
 http://bit.do/5ArF
 
-#A:-1,PTV Sports 
+#EXTINF:0,PTV Sports 
 rtmp://80.82.78.87:443/liverepeater playpath=33 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=28&width=530&height=370 token=#atd%#$ZH
 
-#A:-1,Fox Sports 1 HD U.S
+#EXTINF:0,Fox Sports 1 HD U.S
 http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
 
-#A:-1,WWE Network
+#EXTINF:0,WWE Network
 rtmp://80.82.78.15:443/liverepeater playpath=70 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=70&width=700&height=450 token=#atd%#$ZH
 
-#A:-1,NBA TV 
+#EXTINF:0,NBA TV 
 rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu
 
-#A:-1,NBA TV (ALT)
+#EXTINF:0,NBA TV (ALT)
 rtmp://31.220.0.195:80/live playpath=nbar swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedu.php?live=nbar&vw=620&vh=490 token=%Zrey(nKa@#Z
 
-#A:-1,Sportsnet NY
+#EXTINF:0,Sportsnet NY
 rtmpe://46.246.124.16/live/ playpath=top6 swfUrl=http://www.aadvertismentt.com/player.swf live=1 pageUrl=http://www.cast3d.tv/embed.php?channel=top3&vw=600&vh=400&domain=74
 
-#A:-1,PAC 12 National
+#EXTINF:0,PAC 12 National
 http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#A:-1,PAC 12 Encore
+#EXTINF:0,PAC 12 Encore
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#A:-1,Big Ten Network
+#EXTINF:0,Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#A:-1,NBC Golf HD
+#EXTINF:0,NBC Golf HD
 rtmp://104.250.102.68:2195/live playpath=golf swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcgolf.php live=true timeout=20
 
-#A:-1,Viasat Golf HD
+#EXTINF:0,Viasat Golf HD
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8
 
-#A:-1,Viasat Sport
+#EXTINF:0,Viasat Sport
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
 
-#A:-1,ESPN+ Vivo
+#EXTINF:0,ESPN+ Vivo
 rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.brshare.info/goto/player5.swffreeiptvbrasil pageUrl=http://www.brshare.info/goto/a-74.php?itc=master27
 
-#A:-1,TVC Deportes
+#EXTINF:0,TVC Deportes
 http://187.247.255.139/Apple/TVCDeportes.m3u8
 
-#A:-1,PRO SPORTS 1 HD (Shows Various Football) (English Spoken)
+#EXTINF:0,PRO SPORTS 1 HD (Shows Various Football) (English Spoken)
 http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
 
-#A:-1,PRO SPORTS 3 HD
+#EXTINF:0,PRO SPORTS 3 HD
 http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
 
-#A:-1,KazSport  (Shows Various Football)
+#EXTINF:0,KazSport  (Shows Various Football)
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 
-#A:-1,Idman (Shows Various Football)
+#EXTINF:0,Idman (Shows Various Football)
 http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
 
-#A:-1,AD Sports 2
+#EXTINF:0,AD Sports 2
 http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
 
-#A:-1,Motors TV
+#EXTINF:0,Motors TV
 http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2
 
-#A:-1,Motorsport 7 Channel Australia
+#EXTINF:0,Motorsport 7 Channel Australia
 http://motorsport.hopto.org:8080/
 
-#A:-1,Autosports TV
+#EXTINF:0,Autosports TV
 mms://100automoto.tv/100livesport
 
-#A:-1,Arena Sport
+#EXTINF:0,Arena Sport
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 
-#A:-1,Classic Goals
+#EXTINF:0,Classic Goals
 rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
 
-#A:-1,Real Madrid TV
+#EXTINF:0,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#A:-1,Sevilla FC
+#EXTINF:0,Sevilla FC
 rtmp://flash0.80137-live0.dna.qbrick.com:80/80137-live0/ playpath=sevillafc swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://free-itv.com/
 
-#A:-1,Bursaspor TV
+#EXTINF:0,Bursaspor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 
-#A:-1,Sports TV
+#EXTINF:0,Sports TV
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
-#A:-1,A Sport
+#EXTINF:0,A Sport
 http://rtmp.turkuvazgroup.net/aspor/aspor3/ukturk.m3u8
 
-#A:-1,Extreme Sports (Change To English In Player Setings) 
+#EXTINF:0,Extreme Sports (Change To English In Player Setings) 
 http://195.78.244.219:10000/udp/239.0.3.235:1234
 
-#A:-1,MMA Channel U.S
+#EXTINF:0,MMA Channel U.S
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
 
-#A:-1,MMA Channel Russia
+#EXTINF:0,MMA Channel Russia
 http://188.168.241.125:4022/udp/233.12.144.28:5050
 
-#A:-1,Fight Club 
+#EXTINF:0,Fight Club 
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/bw480000/variant.m3u8?version=2
 
-#A:-1,Fighter Channel
+#EXTINF:0,Fighter Channel
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOETZ/bw480000/variant.m3u8?version=2
 
-#A:-1,Fighter Channel HD
+#EXTINF:0,Fighter Channel HD
 http://87.248.160.8/edge/smil:boet/ukturk.m3u8
 
-#A:-1,Rai Sport 1
+#EXTINF:0,Rai Sport 1
 http://212.162.68.163:80/raisport+
 
-#A:-1,Tile Sport
+#EXTINF:0,Tile Sport
 rtmp://tv1.streampulse.eu/tilesport/movie1
 
-#A:-1,Saudi Arabia Sport
+#EXTINF:0,Saudi Arabia Sport
 http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
 
-#A:-1,Bahrain Sports
+#EXTINF:0,Bahrain Sports
 rtmp://alayam.netromedia.net/btv3/btv3 
 
-#A:-1,Fanatik TV
+#EXTINF:0,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 
-#A:-1,Sports TV
+#EXTINF:0,Sports TV
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
-#A:-1,TVA Sport
+#EXTINF:0,TVA Sport
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 
-#A:-1,O Sports
+#EXTINF:0,O Sports
 http://212.79.96.134:8014/
 
-#A:-1,CDN Sportsmax
+#EXTINF:0,CDN Sportsmax
 rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/
 
-#A:-1,Sports Night (Sports Debate Station)
+#EXTINF:0,Sports Night (Sports Debate Station)
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD(
 
-#A:-1,Spor TV
+#EXTINF:0,Spor TV
 rtmp://62.210.88.208:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359
 
-#A:-1,SportTime Tv
+#EXTINF:0,SportTime Tv
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
 
-#A:-1,SportTime Tv 1
+#EXTINF:0,SportTime Tv 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 
 

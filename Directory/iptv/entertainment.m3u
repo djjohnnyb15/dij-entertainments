@@ -17,6 +17,15 @@ http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc
 #EXTINF:0,ITV 1 HQ
 http://82.135.224.134:80/udp/239.100.3.6:1234
 
+#EXTINF:0,ITV 1
+http://bit.do/3hJb
+
+#EXTINF:0,ITV 1 (ALT)
+http://78.129.175.72/live/itv/itv.m3u8
+
+#EXTINF:0,ITV 1 (ALT)
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+
 #EXTINF:0,ITV 2
 http://78.129.175.72/live/itv2/itv2.m3u8
 

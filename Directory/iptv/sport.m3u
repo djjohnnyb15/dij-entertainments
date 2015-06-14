@@ -410,4 +410,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:0,SportTime Tv 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 
+#EXTINF:0, WWE Network SD
+rtmp://94.102.49.126:443/liverepeater/wwee 
+
 

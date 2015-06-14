@@ -411,6 +411,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 
 #EXTINF:0, WWE Network SD
-rtmp://199.168.116.16/app
+<iframe id="su-ivp" src="https://streamup.com/rooms/repomans-Channel/plugins/video/show?startMuted=false" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" allowTransparency="true" seamless style="border: none; overflow: hidden; width: 640px; height: 360px;" width="640px" height="360px"></iframe>
 
 

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,bbc1
-http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u87
 #EXTINF:0,24/7 NCIS
 http://142.4.216.60:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD

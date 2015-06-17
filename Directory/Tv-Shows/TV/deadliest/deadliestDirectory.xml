@@ -36,9 +36,32 @@
 <dir>
 <name>Season 6</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/deadliest/Season6.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/78957-7-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Season 7</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/deadliest/Season7.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/seasons/78957-6-5.jpg</thumbnail>
 </dir>
 
+<dir>
+<name>Season 8</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/deadliest/Season8.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/78957-8-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Season 9</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/deadliest/Season9.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/78957-9-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Season 10</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/deadliest/Season10.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/78957-10.jpg</thumbnail>
+</dir>
 
 
 <dir>

@@ -1,24 +1,24 @@
 #######################################################################################################################################
 <poster>Dijentertainments</poster>
-<fanart>http://s7.postimg.org/wnk8t1rhn/Top_Gear_Portfolio_one.jpg</fanart>
+<fanart>http://s27.postimg.org/n9czgk8ar/HYNgyl1.jpg</fanart>
 #######################################################################################################################################
 
 
 <dir>
 <name>Top Gear Show</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/topgear/shows.xml</link>
-<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+<thumbnail>http://s27.postimg.org/pcneo883n/top_gear_54a3d56d75bf8.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Top Gear Specials</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/topgear/special.xml</link>
-<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+<thumbnail>http://s27.postimg.org/pcneo883n/top_gear_54a3d56d75bf8.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR salmon]Coming Soon... [/COLOR]Top Gear DVDS </name>
-<link>*</link>
-<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+<name>Top Gear DVD's </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/topgear/topgeardvds.xml</link>
+<thumbnail>http://s27.postimg.org/pcneo883n/top_gear_54a3d56d75bf8.jpg</thumbnail>
 </dir>
 

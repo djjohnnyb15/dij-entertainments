@@ -46,7 +46,7 @@
 </dir>
 
 <dir>
-<name>[COLOR salmon]Coming Soon... [/COLOR][COLOR aqua]Love Thy Neighbour[/COLOR]</name>
+<name>[COLOR aqua]Love Thy Neighbour[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/love/loveDirectory.xml</link>
 <thumbnail>http://s16.postimg.org/acxplixcl/image.jpg</thumbnail>
 </dir>
@@ -150,6 +150,12 @@
 <dir>
 <name>[COLOR aqua]The Twilight Zone original TV series[/COLOR] </name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/thetwilightzone/twilightzoneDirectory.xml</link>
+<thumbnail>http://s15.postimg.org/mcrye54mz/download.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Top Gear Complete {22 Years & Counting} [/COLOR] </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/topgear/topgearDirectory.xml</link>
 <thumbnail>http://s15.postimg.org/mcrye54mz/download.jpg</thumbnail>
 </dir>
 

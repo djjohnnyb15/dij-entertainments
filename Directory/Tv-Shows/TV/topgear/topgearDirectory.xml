@@ -1,0 +1,24 @@
+#######################################################################################################################################
+<poster>Dijentertainments</poster>
+<fanart>http://s7.postimg.org/wnk8t1rhn/Top_Gear_Portfolio_one.jpg</fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>Top Gear Show</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/arrow/show.xml</link>
+<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Top Gear Specials</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/arrow/special.xml</link>
+<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Top Gear DVDS </name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/topgear/topgeardvds.xml</link>
+<thumbnail>http://s17.postimg.org/3pzc8dk4f/347148.jpg</thumbnail>
+</dir>
+

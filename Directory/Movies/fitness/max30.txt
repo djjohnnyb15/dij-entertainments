@@ -1,0 +1,83 @@
+#######################################################################################################################################
+<poster>Dij-Entertainments</poster>
+<fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
+#######################################################################################################################################
+
+<item>
+<title>Deluxe - Ab Attack</title>
+<link>http://videomega.tv/?ref=y8mQZ0rq8HH8qr0ZQm8y</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>Deluxe - Pulse</title>
+<link>http://videomega.tv/?ref=Yy3rqX8R2ii2R8Xqr3yY</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Cardio Challenge</title>
+<link>http://videomega.tv/?ref=s8sP0h8BIooIB8h0Ps8s</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Friday Fight Round 1</title>
+<link>http://videomega.tv/?ref=feD4Wu9K6jj6K9uW4Def</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Friday Fight Round 2</title>
+<link>http://videomega.tv/?ref=5OHKt6ubr66rbu6tKHO5</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Max Out Cardio</title>
+<link>http://videomega.tv/?ref=GogsQ20Eg44gE02QsgoG</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Max Out Power</title>
+<link>http://videomega.tv/?ref=9WxNsx7Nk55kN7xsNxW9</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Max Out Strength</title>
+<link>http://videomega.tv/?ref=6RME5uw6bxxb6wu5EMR6</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Max Out Sweat</title>
+<link>http://videomega.tv/?ref=uB6k0V1cqOOqc1V0k6Bu</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Sweat Intervals</title>
+<link>http://videomega.tv/?ref=5lh6pD2BRppRB2Dp6hl5</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Tabata Power</title>
+<link>http://videomega.tv/?ref=u7Tx9eZQ0ff0QZe9xT7u</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAX30 - Tabata Strength</title>
+<link>http://videomega.tv/?ref=H8eo80mwORROwm08oe8H</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+
+<item>
+<title>Standalone - Sweat Fest</title>
+<link>http://videomega.tv/?ref=57g5LZWzfnnfzWZL5g75</link>
+<thumbnail>http://s8.postimg.org/dkx2woqhx/insanity_max_301.jpg</thumbnail>
+</item>
+

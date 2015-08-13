@@ -3,6 +3,13 @@
 <fanart>http://s14.postimg.org/683y0vmm9/012353999_prevstill.jpg</fanart>
 #######################################################################################################################################
 
+
+<dir>
+<name>[COLOR aqua]2015 Movies[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/2015.xml</link>
+<thumbnail>http://s27.postimg.org/vtl2t72oz/cin.png</thumbnail>
+</dir>
+
 <dir>
 <name>[COLOR aqua]Cinema[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/cinema/cinema.xml</link>

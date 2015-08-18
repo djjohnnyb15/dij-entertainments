@@ -3,23 +3,6 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
-<dir>
-<name>[COLOR blue]Wwe Main[/COLOR] [COLOR red]Event[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/main.xml</link>
-<thumbnail>http://s8.postimg.org/thmn1aqph/14110_logo_main_event_wwe.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]Wwe[/COLOR] [COLOR silver]Network[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/network.xml</link>
-<thumbnail>http://s27.postimg.org/qr4wgqon7/WWE_Network_Logo_2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR yellow]Wwe Nxt[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/nxt.xml</link>
-<thumbnail>http://s7.postimg.org/lvevebycr/NXT_Logo.jpg</thumbnail>
-</dir>
 
 <dir>
 <name>[COLOR red]Wwe Raw[/COLOR]</name>
@@ -31,12 +14,6 @@
 <name>[COLOR blue]Wwe Smackdown[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/smackdown.xml</link>
 <thumbnail>http://s10.postimg.org/8xhns6is9/smackdown.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR silver]Wwe Superstars[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/Sport/WWE/superstar.xml</link>
-<thumbnail>http://s24.postimg.org/51yzc2qol/1389030.jpg</thumbnail>
 </dir>
 
 <dir>
